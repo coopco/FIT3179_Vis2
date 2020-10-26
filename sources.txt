@@ -3,6 +3,9 @@ https://www.agriculture.gov.au/abares/forestsaustralia/forest-data-maps-and-tool
 http://www.bom.gov.au/climate/change/#tabs=Tracker&tracker=timeseries/
 https://www.dpie.nsw.gov.au/air-quality/air-quality-data-services/data-download-facility 
 
+shapefiles:
+    https://data.gov.au/dataset/ds-dga-a1b278b1-59ef-4dea-8468-50eb09967f18/details
+    
 insipration:
     https://disasterphilanthropy.org/disaster/2019-australian-wildfires/ 
     https://www.theguardian.com/environment/2020/apr/26/bushfires-leave-470-plants-and-200-animals-in-dire-straits-government-analysis 

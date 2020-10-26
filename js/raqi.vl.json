@@ -1,0 +1,11 @@
+{
+  "width": 800,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Google's stock price over time.",
+  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/NSW_RAQI.csv"},
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal"},
+    "y": {"field": "Sydney central-east", "type": "quantitative"}
+  }
+}
