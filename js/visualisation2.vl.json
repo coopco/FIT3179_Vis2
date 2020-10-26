@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Deaths from natural disasters (2017)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/coopco/FIT3179/main/countries.topojson",
+    "format": {"type": "topojson", "feature": "custom"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.iso_a3",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/coopco/FIT3179/main/deaths-natural-disasters-ihme.csv"
+        },
+        "key": "Code",
+        "fields": ["Deaths"]
+      }
+    },
+    {
+      "calculate": "datum.Deaths/datum.properties.pop_est*1000000",
+      "as": "Deaths per 1,000,000 people"
+    }
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Deaths per 1,000,000 people",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [0.1, 0.5, 1, 5, 10],
+        "range": [
+          "#fee5d9",
+          "#fcbba1",
+          "#fc9272",
+          "#fb6a4a",
+          "#de2d26",
+          "#a50f15"
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "Country"},
+      {"field": "Deaths", "type": "quantitative", "format": ".0f"},
+      {
+        "field": "Deaths per 1,000,000 people",
+        "type": "quantitative",
+        "format": ".2f"
+      }
+    ]
+  },
+  "config": {
+      "title": {
+        "text": "Deaths from natural disasters (2017)",
+        "color": "#000",
+        "font": "Benton Gothic Bold, sans-serif",
+        "fontSize": 22,
+        "fontWeight": "normal"
+      },
+      "legend": {
+        "labelFont": "Benton Gothic, sans-serif",
+        "labelFontSize": 11.5,
+        "titleFont": "Benton Gothic Bold, sans-serif",
+        "titleFontSize": 13,
+        "titleFontWeight": "normal"
+      },
+      "view": {"stroke": "transparent"}
+  }
+}

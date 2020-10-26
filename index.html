@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  <!-- Import vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+
+<h1>Natural Disasters</h1>
+
+<h2>Avereage temperature in each year, compared to the mean over 1910-2019.</h2>
+<div id="bar"></div>
+
+<h2>Deaths from natural disasters per country in 2017.</h2>
+<div id="map"></div>
+
+<script type="text/javascript">
+  
+  var vis1 = "https://raw.githubusercontent.com/coopco/FIT3179/main/Homework%205/js/visualisation1.vl.json";
+  
+  vegaEmbed('#bar', vis1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+  var vis2 = "https://raw.githubusercontent.com/coopco/FIT3179/main/Homework%205/js/visualisation2.vl.json";
+  
+  vegaEmbed('#map', vis2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
+</body>
+</html>
