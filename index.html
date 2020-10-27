@@ -12,24 +12,29 @@
 <h1>Natural Disasters</h1>
 
 <h2>Avereage temperature in each year, compared to the mean over 1910-2019.</h2>
-<div id="bar"></div>
+<div id="temp"></div>
 
 <h2>Deaths from natural disasters per country in 2017.</h2>
 <div id="map"></div>
+<div id="burn"></div>
+<div id="rain"></div>
+<div id="modis"></div>
+<div id="raqi"></div>
 
 <script type="text/javascript">
+  var temp = "js/temperature.vl.json";
+  var burn = "js/burned_area.vl.json";
+  var rain = "js/rainfall.vl.json";
+  var map = "js/map.vl.json";
+  var modis = "js/modis.vl.json";
+  var raqi = "js/raqi.vl.json";
   
-  var vis1 = "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/js/temperature.vl.json";
-  
-  vegaEmbed('#bar', vis1).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis2 = "js/temperature.vl.json";
-  
-  vegaEmbed('#map', vis2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
+  vegaEmbed('#temp', temp).then(function(result) {}).catch(console.error);
+  vegaEmbed('#burn', burn).then(function(result) {}).catch(console.error);
+  vegaEmbed('#rain', rain).then(function(result) {}).catch(console.error);
+  vegaEmbed('#map', map).then(function(result) {}).catch(console.error);
+  vegaEmbed('#modis', modis).then(function(result) {}).catch(console.error);
+  vegaEmbed('#raqi', raqi).then(function(result) {}).catch(console.error);
 </script>
 
 </body>
