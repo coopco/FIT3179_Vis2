@@ -3,7 +3,7 @@
   "height": 350,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/coopco/FIT3179_vis2/master/data/temperatures.csv"
+    "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/temperatures.csv"
   },
   "transform": [
     {
@@ -72,7 +72,12 @@
           "field": "sign",
           "type": "nominal",
           "scale": {"domain": [-1, 1], "range": ["#1770ab", "#c30d24"]}
-        }
+        },
+        "tooltip": [
+          {"field": "Year", "type": "ordinal"},
+          {"field": "Difference", "type": "quantitative"},
+          {"field": "Global", "type": "quantitative", "title": "Global difference"}
+        ]
       }
     },
     {
