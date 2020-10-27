@@ -6,7 +6,7 @@
       {"filter": "datum.State != 'Total'"}
   ],
   "encoding": {
-    "x": {"field": "State", "type": "nominal", "axis": {"labelAngle": -90}},
-    "y": {"field": "Porortion forest burned", "type": "quantitative"}
+    "y": {"field": "State", "type": "nominal", "axis": {"labelAngle": 0}},
+    "x": {"field": "Proportion forest burned", "type": "quantitative"}
   }
 }
