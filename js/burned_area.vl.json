@@ -1,0 +1,12 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/burn.csv"},
+  "mark": "bar",
+  "transform": [
+      {"filter": "datum.State != 'Total'"}
+  ],
+  "encoding": {
+    "x": {"field": "State", "type": "nominal", "axis": {"labelAngle": -90}},
+    "y": {"field": "Porortion forest burned", "type": "quantitative"}
+  }
+}

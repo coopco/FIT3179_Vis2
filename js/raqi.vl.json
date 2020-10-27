@@ -2,10 +2,45 @@
   "width": 800,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "Google's stock price over time.",
-  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/NSW_RAQI.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/raqi2.csv"},
+  "transform": [
+    {
+      "calculate": "datetime(datum.Year, datum.Month)",
+      "as": "Date"
+    },
+    {
+      "calculate": "if(isValid(region_selection), datum[region_selection], datum.Mean)",
+      "as": "Selected"
+    }
+  ],
+  "params": [
+    {
+      "name": "region_selection",
+      "bind": {
+        "input": "select",
+        "name": "Region selection:",
+        "options": [
+          "Mean",
+          "Sydney central east",
+          "Sydney north west",
+          "Sydney south west",
+          "Illawarra",
+          "Lower Hunter"
+        ],
+        "labels": [
+          "All",
+          "Central-East Sydney",
+          "North-West Sydney",
+          "South-West Sydney",
+          "Illawarra",
+          "Lower Hunter"
+        ]
+      }
+    }
+  ],
   "mark": "line",
   "encoding": {
     "x": {"field": "Date", "type": "temporal"},
-    "y": {"field": "Sydney central-east", "type": "quantitative"}
+    "y": {"field": "Selected", "type": "quantitative", "title": "RAQI"}
   }
 }

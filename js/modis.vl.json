@@ -1,0 +1,51 @@
+{
+  "width": 800,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/fire_counts.csv"},
+  "mark": "line",
+  "transform": [
+    {"filter": "datum.State != 'Total'"},
+    {"calculate": "datum['X20022003']", "as": "X20022003"},
+    {"calculate": "datum['X20032004']", "as": "X20032004"},
+    {"calculate": "datum['X20042005']", "as": "X20042005"},
+    {"calculate": "datum['X20052006']", "as": "X20052006"},
+    {"calculate": "datum['X20062007']", "as": "X20062007"},
+    {"calculate": "datum['X20072008']", "as": "X20072008"},
+    {"calculate": "datum['X20082009']", "as": "X20082009"},
+    {"calculate": "datum['X20092010']", "as": "X20092010"},
+    {"calculate": "datum['X20102011']", "as": "X20102011"},
+    {"calculate": "datum['X20112012']", "as": "X20112012"},
+    {"calculate": "datum['X20122013']", "as": "X20122013"},
+    {"calculate": "datum['X20132014']", "as": "X20132014"},
+    {"calculate": "datum['X20142015']", "as": "X20142015"},
+    {"calculate": "datum['X20152016']", "as": "X20152016"},
+    {"calculate": "datum['X20162017']", "as": "X20162017"},
+    {"calculate": "datum['X20172018']", "as": "X20172018"},
+    {"calculate": "datum['X20182019']", "as": "X20182019"},
+    {"calculate": "datum['X20192020']", "as": "X20192020"},
+    {"filter": "datum.State == state_selection || (state_selection == null && datum.State == 'New South Wales')"}
+  ],
+  "params": [
+    {
+      "name": "state_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          "New South Wales",
+          "Queensland",
+          "Victoria"
+        ],
+        "labels": [
+          "New South Wales",
+          "Queensland",
+          "Victoria"
+        ],
+        "name": "State Selection:"
+      }
+    }
+  ],
+  "encoding": {
+    "x": {"field": "DOY", "type": "quantitative", "axis": {"labelAngle": -90}},
+    "y": {"field": "X20182019", "type": "quantitative"}
+  }
+}
