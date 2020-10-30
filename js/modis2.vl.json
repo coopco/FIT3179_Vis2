@@ -45,14 +45,13 @@
       "type": "quantitative",
       "scale": {
         "type": "pow",
-        "exponent": 0.15,
+        "exponent": 0.2,
         "scheme": "yelloworangered",
         "range": ["#fcfcc6", "#fceaa8", "#fcd88a", "#fbac73", "#f27260", "#cb4761", "#993649"]
       }
     },
     "tooltip": [
-      {"field": "Season", "type": "ordinal"},
-      {"field": "Week", "type": "quantitative"},
+      {"field": "Date"},
       {"field": "Count", "type": "quantitative"}
     ],
     "stroke": {
