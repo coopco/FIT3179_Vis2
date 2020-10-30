@@ -1,0 +1,2809 @@
+"week","name","state","DOY","value"
+1,"X20022003","New South Wales",28,347
+1,"X20022003","Queensland",28,731
+1,"X20022003","Victoria",28,1.6
+1,"X20032004","New South Wales",28,69
+1,"X20032004","Queensland",28,433
+1,"X20032004","Victoria",28,5.4
+1,"X20042005","New South Wales",28,409
+1,"X20042005","Queensland",28,860
+1,"X20042005","Victoria",28,20.3
+1,"X20052006","New South Wales",28,104
+1,"X20052006","Queensland",28,266
+1,"X20052006","Victoria",28,12.5
+1,"X20062007","New South Wales",28,154
+1,"X20062007","Queensland",28,457
+1,"X20062007","Victoria",28,6.5
+1,"X20072008","New South Wales",28,111
+1,"X20072008","Queensland",28,603
+1,"X20072008","Victoria",28,3.6
+1,"X20082009","New South Wales",28,131
+1,"X20082009","Queensland",28,478
+1,"X20082009","Victoria",28,5.4
+1,"X20092010","New South Wales",28,65
+1,"X20092010","Queensland",28,397
+1,"X20092010","Victoria",28,14.4
+1,"X20102011","New South Wales",28,23
+1,"X20102011","Queensland",28,185
+1,"X20102011","Victoria",28,6.4
+1,"X20112012","New South Wales",28,181
+1,"X20112012","Queensland",28,841
+1,"X20112012","Victoria",28,7.5
+1,"X20122013","New South Wales",28,99
+1,"X20122013","Queensland",28,553
+1,"X20122013","Victoria",28,2.6
+1,"X20132014","New South Wales",28,122
+1,"X20132014","Queensland",28,477
+1,"X20132014","Victoria",28,15.3
+1,"X20142015","New South Wales",28,173
+1,"X20142015","Queensland",28,1041
+1,"X20142015","Victoria",28,4.5
+1,"X20152016","New South Wales",28,55
+1,"X20152016","Queensland",28,280
+1,"X20152016","Victoria",28,7.4
+1,"X20162017","New South Wales",28,40.1
+1,"X20162017","Queensland",28,647
+1,"X20162017","Victoria",28,5.5
+1,"X20172018","New South Wales",28,131
+1,"X20172018","Queensland",28,355
+1,"X20172018","Victoria",28,18.3
+1,"X20182019","New South Wales",28,216
+1,"X20182019","Queensland",28,505
+1,"X20182019","Victoria",28,12.4
+1,"X20192020","New South Wales",28,252
+1,"X20192020","Queensland",28,713
+1,"X20192020","Victoria",28,28.1
+2,"X20022003","New South Wales",77,566
+2,"X20022003","Queensland",77,773
+2,"X20022003","Victoria",77,16.3
+2,"X20032004","New South Wales",77,74
+2,"X20032004","Queensland",77,338
+2,"X20032004","Victoria",77,11.3
+2,"X20042005","New South Wales",77,143
+2,"X20042005","Queensland",77,679
+2,"X20042005","Victoria",77,5.6
+2,"X20052006","New South Wales",77,28.1
+2,"X20052006","Queensland",77,502
+2,"X20052006","Victoria",77,1.6
+2,"X20062007","New South Wales",77,357
+2,"X20062007","Queensland",77,431
+2,"X20062007","Victoria",77,17.3
+2,"X20072008","New South Wales",77,126.1
+2,"X20072008","Queensland",77,713
+2,"X20072008","Victoria",77,1.6
+2,"X20082009","New South Wales",77,49
+2,"X20082009","Queensland",77,220
+2,"X20082009","Victoria",77,6.3
+2,"X20092010","New South Wales",77,92
+2,"X20092010","Queensland",77,601
+2,"X20092010","Victoria",77,21.3
+2,"X20102011","New South Wales",77,42
+2,"X20102011","Queensland",77,251
+2,"X20102011","Victoria",77,7.4
+2,"X20112012","New South Wales",77,124
+2,"X20112012","Queensland",77,1002
+2,"X20112012","Victoria",77,2.5
+2,"X20122013","New South Wales",77,75.2
+2,"X20122013","Queensland",77,163
+2,"X20122013","Victoria",77,5.4
+2,"X20132014","New South Wales",77,84.1
+2,"X20132014","Queensland",77,262
+2,"X20132014","Victoria",77,14.3
+2,"X20142015","New South Wales",77,260
+2,"X20142015","Queensland",77,931
+2,"X20142015","Victoria",77,2.6
+2,"X20152016","New South Wales",77,32.2
+2,"X20152016","Queensland",77,1115
+2,"X20152016","Victoria",77,2.6
+2,"X20162017","New South Wales",77,41
+2,"X20162017","Queensland",77,702
+2,"X20162017","Victoria",77,2.6
+2,"X20172018","New South Wales",77,200
+2,"X20172018","Queensland",77,465
+2,"X20172018","Victoria",77,5.3
+2,"X20182019","New South Wales",77,299
+2,"X20182019","Queensland",77,1231
+2,"X20182019","Victoria",77,22.2
+2,"X20192020","New South Wales",77,98.1
+2,"X20192020","Queensland",77,576
+2,"X20192020","Victoria",77,0.7
+3,"X20022003","New South Wales",126,376
+3,"X20022003","Queensland",126,821
+3,"X20022003","Victoria",126,5.4
+3,"X20032004","New South Wales",126,230
+3,"X20032004","Queensland",126,442
+3,"X20032004","Victoria",126,9.6
+3,"X20042005","New South Wales",126,315
+3,"X20042005","Queensland",126,682
+3,"X20042005","Victoria",126,2.5
+3,"X20052006","New South Wales",126,107
+3,"X20052006","Queensland",126,646
+3,"X20052006","Victoria",126,13.5
+3,"X20062007","New South Wales",126,38
+3,"X20062007","Queensland",126,186
+3,"X20062007","Victoria",126,3.5
+3,"X20072008","New South Wales",126,206
+3,"X20072008","Queensland",126,803
+3,"X20072008","Victoria",126,1.6
+3,"X20082009","New South Wales",126,89
+3,"X20082009","Queensland",126,299
+3,"X20082009","Victoria",126,5.5
+3,"X20092010","New South Wales",126,124.1
+3,"X20092010","Queensland",126,814
+3,"X20092010","Victoria",126,15.4
+3,"X20102011","New South Wales",126,54
+3,"X20102011","Queensland",126,377
+3,"X20102011","Victoria",126,0.7
+3,"X20112012","New South Wales",126,71.1
+3,"X20112012","Queensland",126,831
+3,"X20112012","Victoria",126,11.4
+3,"X20122013","New South Wales",126,39.1
+3,"X20122013","Queensland",126,228
+3,"X20122013","Victoria",126,1.6
+3,"X20132014","New South Wales",126,29.2
+3,"X20132014","Queensland",126,274
+3,"X20132014","Victoria",126,1.6
+3,"X20142015","New South Wales",126,97.1
+3,"X20142015","Queensland",126,938
+3,"X20142015","Victoria",126,1.6
+3,"X20152016","New South Wales",126,31
+3,"X20152016","Queensland",126,895
+3,"X20152016","Victoria",126,14.4
+3,"X20162017","New South Wales",126,78
+3,"X20162017","Queensland",126,264
+3,"X20162017","Victoria",126,2.5
+3,"X20172018","New South Wales",126,199.1
+3,"X20172018","Queensland",126,1112
+3,"X20172018","Victoria",126,2.5
+3,"X20182019","New South Wales",126,461
+3,"X20182019","Queensland",126,659
+3,"X20182019","Victoria",126,8.3
+3,"X20192020","New South Wales",126,418
+3,"X20192020","Queensland",126,1213
+3,"X20192020","Victoria",126,1.6
+4,"X20022003","New South Wales",175,393
+4,"X20022003","Queensland",175,932
+4,"X20022003","Victoria",175,11.3
+4,"X20032004","New South Wales",175,167.1
+4,"X20032004","Queensland",175,308
+4,"X20032004","Victoria",175,2.5
+4,"X20042005","New South Wales",175,164
+4,"X20042005","Queensland",175,439
+4,"X20042005","Victoria",175,2.5
+4,"X20052006","New South Wales",175,250
+4,"X20052006","Queensland",175,741
+4,"X20052006","Victoria",175,6.3
+4,"X20062007","New South Wales",175,37.1
+4,"X20062007","Queensland",175,385
+4,"X20062007","Victoria",175,3.4
+4,"X20072008","New South Wales",175,150
+4,"X20072008","Queensland",175,671
+4,"X20072008","Victoria",175,12.2
+4,"X20082009","New South Wales",175,70
+4,"X20082009","Queensland",175,186.2
+4,"X20082009","Victoria",175,6.4
+4,"X20092010","New South Wales",175,128.1
+4,"X20092010","Queensland",175,679
+4,"X20092010","Victoria",175,4.4
+4,"X20102011","New South Wales",175,50
+4,"X20102011","Queensland",175,346
+4,"X20102011","Victoria",175,0.7
+4,"X20112012","New South Wales",175,207
+4,"X20112012","Queensland",175,1444
+4,"X20112012","Victoria",175,15.3
+4,"X20122013","New South Wales",175,55
+4,"X20122013","Queensland",175,805
+4,"X20122013","Victoria",175,1.6
+4,"X20132014","New South Wales",175,123
+4,"X20132014","Queensland",175,533
+4,"X20132014","Victoria",175,0.7
+4,"X20142015","New South Wales",175,158
+4,"X20142015","Queensland",175,902
+4,"X20142015","Victoria",175,4.5
+4,"X20152016","New South Wales",175,23
+4,"X20152016","Queensland",175,307
+4,"X20152016","Victoria",175,6.5
+4,"X20162017","New South Wales",175,84.2
+4,"X20162017","Queensland",175,763
+4,"X20162017","Victoria",175,4.5
+4,"X20172018","New South Wales",175,372
+4,"X20172018","Queensland",175,965
+4,"X20172018","Victoria",175,2.6
+4,"X20182019","New South Wales",175,483
+4,"X20182019","Queensland",175,1238
+4,"X20182019","Victoria",175,10.4
+4,"X20192020","New South Wales",175,445
+4,"X20192020","Queensland",175,1496
+4,"X20192020","Victoria",175,21.4
+5,"X20022003","New South Wales",224,99
+5,"X20022003","Queensland",224,352
+5,"X20022003","Victoria",224,2.6
+5,"X20032004","New South Wales",224,361
+5,"X20032004","Queensland",224,672
+5,"X20032004","Victoria",224,3.5
+5,"X20042005","New South Wales",224,162
+5,"X20042005","Queensland",224,416
+5,"X20042005","Victoria",224,3.4
+5,"X20052006","New South Wales",224,286
+5,"X20052006","Queensland",224,475
+5,"X20052006","Victoria",224,19.2
+5,"X20062007","New South Wales",224,138
+5,"X20062007","Queensland",224,822
+5,"X20062007","Victoria",224,0.7
+5,"X20072008","New South Wales",224,279
+5,"X20072008","Queensland",224,1248
+5,"X20072008","Victoria",224,2.5
+5,"X20082009","New South Wales",224,78
+5,"X20082009","Queensland",224,855
+5,"X20082009","Victoria",224,2.6
+5,"X20092010","New South Wales",224,213
+5,"X20092010","Queensland",224,895
+5,"X20092010","Victoria",224,3.5
+5,"X20102011","New South Wales",224,37.1
+5,"X20102011","Queensland",224,538
+5,"X20102011","Victoria",224,0.7
+5,"X20112012","New South Wales",224,432
+5,"X20112012","Queensland",224,1528
+5,"X20112012","Victoria",224,14.3
+5,"X20122013","New South Wales",224,206
+5,"X20122013","Queensland",224,1336
+5,"X20122013","Victoria",224,15.4
+5,"X20132014","New South Wales",224,90
+5,"X20132014","Queensland",224,656
+5,"X20132014","Victoria",224,9.5
+5,"X20142015","New South Wales",224,631
+5,"X20142015","Queensland",224,878
+5,"X20142015","Victoria",224,8.4
+5,"X20152016","New South Wales",224,102
+5,"X20152016","Queensland",224,539
+5,"X20152016","Victoria",224,2.6
+5,"X20162017","New South Wales",224,263
+5,"X20162017","Queensland",224,1101
+5,"X20162017","Victoria",224,5.5
+5,"X20172018","New South Wales",224,319
+5,"X20172018","Queensland",224,671
+5,"X20172018","Victoria",224,20.3
+5,"X20182019","New South Wales",224,439
+5,"X20182019","Queensland",224,1118
+5,"X20182019","Victoria",224,16.3
+5,"X20192020","New South Wales",224,217
+5,"X20192020","Queensland",224,671
+5,"X20192020","Victoria",224,8.5
+6,"X20022003","New South Wales",273,361.1
+6,"X20022003","Queensland",273,575
+6,"X20022003","Victoria",273,17.5
+6,"X20032004","New South Wales",273,309
+6,"X20032004","Queensland",273,408
+6,"X20032004","Victoria",273,19.2
+6,"X20042005","New South Wales",273,124
+6,"X20042005","Queensland",273,926
+6,"X20042005","Victoria",273,0.7
+6,"X20052006","New South Wales",273,296
+6,"X20052006","Queensland",273,655
+6,"X20052006","Victoria",273,0.7
+6,"X20062007","New South Wales",273,348
+6,"X20062007","Queensland",273,1521
+6,"X20062007","Victoria",273,16.3
+6,"X20072008","New South Wales",273,796
+6,"X20072008","Queensland",273,1128
+6,"X20072008","Victoria",273,4.5
+6,"X20082009","New South Wales",273,102
+6,"X20082009","Queensland",273,999
+6,"X20082009","Victoria",273,1.6
+6,"X20092010","New South Wales",273,227
+6,"X20092010","Queensland",273,1017
+6,"X20092010","Victoria",273,5.4
+6,"X20102011","New South Wales",273,93.1
+6,"X20102011","Queensland",273,515
+6,"X20102011","Victoria",273,1.6
+6,"X20112012","New South Wales",273,106
+6,"X20112012","Queensland",273,1600
+6,"X20112012","Victoria",273,13.4
+6,"X20122013","New South Wales",273,350
+6,"X20122013","Queensland",273,2593
+6,"X20122013","Victoria",273,4.5
+6,"X20132014","New South Wales",273,233
+6,"X20132014","Queensland",273,1543
+6,"X20132014","Victoria",273,1.6
+6,"X20142015","New South Wales",273,232
+6,"X20142015","Queensland",273,699
+6,"X20142015","Victoria",273,4.6
+6,"X20152016","New South Wales",273,152
+6,"X20152016","Queensland",273,996
+6,"X20152016","Victoria",273,1.6
+6,"X20162017","New South Wales",273,80.1
+6,"X20162017","Queensland",273,759
+6,"X20162017","Victoria",273,3.5
+6,"X20172018","New South Wales",273,375
+6,"X20172018","Queensland",273,561
+6,"X20172018","Victoria",273,4.5
+6,"X20182019","New South Wales",273,419
+6,"X20182019","Queensland",273,657
+6,"X20182019","Victoria",273,10.2
+6,"X20192020","New South Wales",273,750
+6,"X20192020","Queensland",273,596
+6,"X20192020","Victoria",273,1.6
+7,"X20022003","New South Wales",322,523
+7,"X20022003","Queensland",322,754
+7,"X20022003","Victoria",322,8.4
+7,"X20032004","New South Wales",322,76
+7,"X20032004","Queensland",322,665
+7,"X20032004","Victoria",322,0.7
+7,"X20042005","New South Wales",322,292
+7,"X20042005","Queensland",322,1359
+7,"X20042005","Victoria",322,11.3
+7,"X20052006","New South Wales",322,299
+7,"X20052006","Queensland",322,760
+7,"X20052006","Victoria",322,13.3
+7,"X20062007","New South Wales",322,446
+7,"X20062007","Queensland",322,1511
+7,"X20062007","Victoria",322,22.3
+7,"X20072008","New South Wales",322,247
+7,"X20072008","Queensland",322,658
+7,"X20072008","Victoria",322,1.6
+7,"X20082009","New South Wales",322,260
+7,"X20082009","Queensland",322,1147
+7,"X20082009","Victoria",322,1.6
+7,"X20092010","New South Wales",322,408
+7,"X20092010","Queensland",322,2499
+7,"X20092010","Victoria",322,5.4
+7,"X20102011","New South Wales",322,114.1
+7,"X20102011","Queensland",322,1524
+7,"X20102011","Victoria",322,0.7
+7,"X20112012","New South Wales",322,92.1
+7,"X20112012","Queensland",322,2017
+7,"X20112012","Victoria",322,3.6
+7,"X20122013","New South Wales",322,246
+7,"X20122013","Queensland",322,2336
+7,"X20122013","Victoria",322,3.5
+7,"X20132014","New South Wales",322,316
+7,"X20132014","Queensland",322,857
+7,"X20132014","Victoria",322,12.3
+7,"X20142015","New South Wales",322,250.1
+7,"X20142015","Queensland",322,632
+7,"X20142015","Victoria",322,9.4
+7,"X20152016","New South Wales",322,272
+7,"X20152016","Queensland",322,850
+7,"X20152016","Victoria",322,2.6
+7,"X20162017","New South Wales",322,204
+7,"X20162017","Queensland",322,631
+7,"X20162017","Victoria",322,26.2
+7,"X20172018","New South Wales",322,699
+7,"X20172018","Queensland",322,1007
+7,"X20172018","Victoria",322,26.5
+7,"X20182019","New South Wales",322,850
+7,"X20182019","Queensland",322,954
+7,"X20182019","Victoria",322,7.3
+7,"X20192020","New South Wales",322,508
+7,"X20192020","Queensland",322,887
+7,"X20192020","Victoria",322,2.6
+8,"X20022003","New South Wales",371,256
+8,"X20022003","Queensland",371,360
+8,"X20022003","Victoria",371,9.2
+8,"X20032004","New South Wales",371,122
+8,"X20032004","Queensland",371,710
+8,"X20032004","Victoria",371,8.4
+8,"X20042005","New South Wales",371,276
+8,"X20042005","Queensland",371,968
+8,"X20042005","Victoria",371,24.2
+8,"X20052006","New South Wales",371,324.1
+8,"X20052006","Queensland",371,1664
+8,"X20052006","Victoria",371,2.5
+8,"X20062007","New South Wales",371,646
+8,"X20062007","Queensland",371,2182
+8,"X20062007","Victoria",371,7.4
+8,"X20072008","New South Wales",371,71
+8,"X20072008","Queensland",371,178
+8,"X20072008","Victoria",371,12.2
+8,"X20082009","New South Wales",371,254
+8,"X20082009","Queensland",371,920
+8,"X20082009","Victoria",371,5.5
+8,"X20092010","New South Wales",371,488
+8,"X20092010","Queensland",371,1700
+8,"X20092010","Victoria",371,21.2
+8,"X20102011","New South Wales",371,114.1
+8,"X20102011","Queensland",371,909
+8,"X20102011","Victoria",371,6.5
+8,"X20112012","New South Wales",371,132.1
+8,"X20112012","Queensland",371,2024
+8,"X20112012","Victoria",371,8.4
+8,"X20122013","New South Wales",371,231
+8,"X20122013","Queensland",371,1308
+8,"X20122013","Victoria",371,2.5
+8,"X20132014","New South Wales",371,425
+8,"X20132014","Queensland",371,1170
+8,"X20132014","Victoria",371,1.6
+8,"X20142015","New South Wales",371,70
+8,"X20142015","Queensland",371,917
+8,"X20142015","Victoria",371,17.4
+8,"X20152016","New South Wales",371,196
+8,"X20152016","Queensland",371,599
+8,"X20152016","Victoria",371,14.3
+8,"X20162017","New South Wales",371,98.1
+8,"X20162017","Queensland",371,633
+8,"X20162017","Victoria",371,9.6
+8,"X20172018","New South Wales",371,433
+8,"X20172018","Queensland",371,1059
+8,"X20172018","Victoria",371,2.5
+8,"X20182019","New South Wales",371,667
+8,"X20182019","Queensland",371,1326
+8,"X20182019","Victoria",371,21.3
+8,"X20192020","New South Wales",371,442
+8,"X20192020","Queensland",371,1123
+8,"X20192020","Victoria",371,10.3
+9,"X20022003","New South Wales",420,277
+9,"X20022003","Queensland",420,1116
+9,"X20022003","Victoria",420,33.1
+9,"X20032004","New South Wales",420,363
+9,"X20032004","Queensland",420,1004
+9,"X20032004","Victoria",420,1.6
+9,"X20042005","New South Wales",420,282
+9,"X20042005","Queensland",420,660
+9,"X20042005","Victoria",420,24.3
+9,"X20052006","New South Wales",420,328
+9,"X20052006","Queensland",420,1517
+9,"X20052006","Victoria",420,8.4
+9,"X20062007","New South Wales",420,180
+9,"X20062007","Queensland",420,1468
+9,"X20062007","Victoria",420,44.3
+9,"X20072008","New South Wales",420,267
+9,"X20072008","Queensland",420,709
+9,"X20072008","Victoria",420,47.1
+9,"X20082009","New South Wales",420,187
+9,"X20082009","Queensland",420,749
+9,"X20082009","Victoria",420,13.3
+9,"X20092010","New South Wales",420,655
+9,"X20092010","Queensland",420,1302
+9,"X20092010","Victoria",420,10.2
+9,"X20102011","New South Wales",420,245
+9,"X20102011","Queensland",420,705
+9,"X20102011","Victoria",420,1.6
+9,"X20112012","New South Wales",420,157
+9,"X20112012","Queensland",420,3004
+9,"X20112012","Victoria",420,17.1
+9,"X20122013","New South Wales",420,316
+9,"X20122013","Queensland",420,2229
+9,"X20122013","Victoria",420,8.5
+9,"X20132014","New South Wales",420,556
+9,"X20132014","Queensland",420,1100
+9,"X20132014","Victoria",420,6.4
+9,"X20142015","New South Wales",420,141
+9,"X20142015","Queensland",420,1672
+9,"X20142015","Victoria",420,71.2
+9,"X20152016","New South Wales",420,103
+9,"X20152016","Queensland",420,843
+9,"X20152016","Victoria",420,21.3
+9,"X20162017","New South Wales",420,54.2
+9,"X20162017","Queensland",420,898
+9,"X20162017","Victoria",420,6.4
+9,"X20172018","New South Wales",420,622
+9,"X20172018","Queensland",420,892
+9,"X20172018","Victoria",420,2.5
+9,"X20182019","New South Wales",420,212
+9,"X20182019","Queensland",420,806
+9,"X20182019","Victoria",420,22.3
+9,"X20192020","New South Wales",420,307
+9,"X20192020","Queensland",420,987
+9,"X20192020","Victoria",420,21.2
+10,"X20022003","New South Wales",469,200
+10,"X20022003","Queensland",469,1638
+10,"X20022003","Victoria",469,10.3
+10,"X20032004","New South Wales",469,663
+10,"X20032004","Queensland",469,1236
+10,"X20032004","Victoria",469,30.1
+10,"X20042005","New South Wales",469,84
+10,"X20042005","Queensland",469,680
+10,"X20042005","Victoria",469,0.7
+10,"X20052006","New South Wales",469,148
+10,"X20052006","Queensland",469,1386
+10,"X20052006","Victoria",469,17.2
+10,"X20062007","New South Wales",469,167
+10,"X20062007","Queensland",469,983
+10,"X20062007","Victoria",469,4.5
+10,"X20072008","New South Wales",469,128
+10,"X20072008","Queensland",469,383
+10,"X20072008","Victoria",469,27.1
+10,"X20082009","New South Wales",469,36
+10,"X20082009","Queensland",469,857
+10,"X20082009","Victoria",469,6.5
+10,"X20092010","New South Wales",469,110
+10,"X20092010","Queensland",469,1566
+10,"X20092010","Victoria",469,14.3
+10,"X20102011","New South Wales",469,113
+10,"X20102011","Queensland",469,1201
+10,"X20102011","Victoria",469,3.6
+10,"X20112012","New South Wales",469,229
+10,"X20112012","Queensland",469,3865
+10,"X20112012","Victoria",469,21.2
+10,"X20122013","New South Wales",469,639
+10,"X20122013","Queensland",469,2946
+10,"X20122013","Victoria",469,28.2
+10,"X20132014","New South Wales",469,473
+10,"X20132014","Queensland",469,774
+10,"X20132014","Victoria",469,16.4
+10,"X20142015","New South Wales",469,158
+10,"X20142015","Queensland",469,1588
+10,"X20142015","Victoria",469,18.2
+10,"X20152016","New South Wales",469,88.1
+10,"X20152016","Queensland",469,733
+10,"X20152016","Victoria",469,2.5
+10,"X20162017","New South Wales",469,41
+10,"X20162017","Queensland",469,577
+10,"X20162017","Victoria",469,8.4
+10,"X20172018","New South Wales",469,666
+10,"X20172018","Queensland",469,1225
+10,"X20172018","Victoria",469,4.5
+10,"X20182019","New South Wales",469,126
+10,"X20182019","Queensland",469,2087
+10,"X20182019","Victoria",469,27.1
+10,"X20192020","New South Wales",469,1505
+10,"X20192020","Queensland",469,2194
+10,"X20192020","Victoria",469,27.3
+11,"X20022003","New South Wales",518,350
+11,"X20022003","Queensland",518,1496
+11,"X20022003","Victoria",518,45.1
+11,"X20032004","New South Wales",518,1013
+11,"X20032004","Queensland",518,2079
+11,"X20032004","Victoria",518,2.6
+11,"X20042005","New South Wales",518,124
+11,"X20042005","Queensland",518,853
+11,"X20042005","Victoria",518,8.3
+11,"X20052006","New South Wales",518,214
+11,"X20052006","Queensland",518,1210
+11,"X20052006","Victoria",518,0.7
+11,"X20062007","New South Wales",518,141
+11,"X20062007","Queensland",518,1330
+11,"X20062007","Victoria",518,33.2
+11,"X20072008","New South Wales",518,245
+11,"X20072008","Queensland",518,1594
+11,"X20072008","Victoria",518,2.6
+11,"X20082009","New South Wales",518,218
+11,"X20082009","Queensland",518,1611
+11,"X20082009","Victoria",518,29.2
+11,"X20092010","New South Wales",518,361
+11,"X20092010","Queensland",518,2807
+11,"X20092010","Victoria",518,29.1
+11,"X20102011","New South Wales",518,45
+11,"X20102011","Queensland",518,1296
+11,"X20102011","Victoria",518,1.6
+11,"X20112012","New South Wales",518,215
+11,"X20112012","Queensland",518,5014
+11,"X20112012","Victoria",518,17.3
+11,"X20122013","New South Wales",518,372
+11,"X20122013","Queensland",518,3065
+11,"X20122013","Victoria",518,32.3
+11,"X20132014","New South Wales",518,416
+11,"X20132014","Queensland",518,1063
+11,"X20132014","Victoria",518,4.5
+11,"X20142015","New South Wales",518,163
+11,"X20142015","Queensland",518,1515
+11,"X20142015","Victoria",518,4.4
+11,"X20152016","New South Wales",518,325
+11,"X20152016","Queensland",518,1012
+11,"X20152016","Victoria",518,32.2
+11,"X20162017","New South Wales",518,56.1
+11,"X20162017","Queensland",518,476
+11,"X20162017","Victoria",518,2.6
+11,"X20172018","New South Wales",518,400
+11,"X20172018","Queensland",518,1404
+11,"X20172018","Victoria",518,6.5
+11,"X20182019","New South Wales",518,361
+11,"X20182019","Queensland",518,1567
+11,"X20182019","Victoria",518,40.2
+11,"X20192020","New South Wales",518,1719
+11,"X20192020","Queensland",518,1755
+11,"X20192020","Victoria",518,14.2
+12,"X20022003","New South Wales",567,289
+12,"X20022003","Queensland",567,2348
+12,"X20022003","Victoria",567,7.4
+12,"X20032004","New South Wales",567,880
+12,"X20032004","Queensland",567,2790
+12,"X20032004","Victoria",567,16.2
+12,"X20042005","New South Wales",567,369
+12,"X20042005","Queensland",567,1856
+12,"X20042005","Victoria",567,52.1
+12,"X20052006","New South Wales",567,225.1
+12,"X20052006","Queensland",567,1711
+12,"X20052006","Victoria",567,7.5
+12,"X20062007","New South Wales",567,326
+12,"X20062007","Queensland",567,1435
+12,"X20062007","Victoria",567,133.1
+12,"X20072008","New South Wales",567,449
+12,"X20072008","Queensland",567,2883
+12,"X20072008","Victoria",567,5.6
+12,"X20082009","New South Wales",567,202
+12,"X20082009","Queensland",567,2281
+12,"X20082009","Victoria",567,19.1
+12,"X20092010","New South Wales",567,250
+12,"X20092010","Queensland",567,3437
+12,"X20092010","Victoria",567,13.4
+12,"X20102011","New South Wales",567,100
+12,"X20102011","Queensland",567,529
+12,"X20102011","Victoria",567,4.4
+12,"X20112012","New South Wales",567,597
+12,"X20112012","Queensland",567,7810
+12,"X20112012","Victoria",567,21
+12,"X20122013","New South Wales",567,126
+12,"X20122013","Queensland",567,3233
+12,"X20122013","Victoria",567,9.4
+12,"X20132014","New South Wales",567,116.1
+12,"X20132014","Queensland",567,2239
+12,"X20132014","Victoria",567,3.5
+12,"X20142015","New South Wales",567,202
+12,"X20142015","Queensland",567,2264
+12,"X20142015","Victoria",567,20.3
+12,"X20152016","New South Wales",567,177
+12,"X20152016","Queensland",567,1437
+12,"X20152016","Victoria",567,31.3
+12,"X20162017","New South Wales",567,18.2
+12,"X20162017","Queensland",567,207
+12,"X20162017","Victoria",567,0.7
+12,"X20172018","New South Wales",567,467
+12,"X20172018","Queensland",567,1609
+12,"X20172018","Victoria",567,18.4
+12,"X20182019","New South Wales",567,340
+12,"X20182019","Queensland",567,2178
+12,"X20182019","Victoria",567,14.2
+12,"X20192020","New South Wales",567,618
+12,"X20192020","Queensland",567,818
+12,"X20192020","Victoria",567,20.3
+13,"X20022003","New South Wales",616,924
+13,"X20022003","Queensland",616,4529
+13,"X20022003","Victoria",616,11.2
+13,"X20032004","New South Wales",616,1327
+13,"X20032004","Queensland",616,1987
+13,"X20032004","Victoria",616,66.1
+13,"X20042005","New South Wales",616,309
+13,"X20042005","Queensland",616,1962
+13,"X20042005","Victoria",616,14.3
+13,"X20052006","New South Wales",616,192.1
+13,"X20052006","Queensland",616,2590
+13,"X20052006","Victoria",616,0.7
+13,"X20062007","New South Wales",616,281
+13,"X20062007","Queensland",616,1820
+13,"X20062007","Victoria",616,15.2
+13,"X20072008","New South Wales",616,425
+13,"X20072008","Queensland",616,2755
+13,"X20072008","Victoria",616,14.3
+13,"X20082009","New South Wales",616,191
+13,"X20082009","Queensland",616,1812
+13,"X20082009","Victoria",616,70.1
+13,"X20092010","New South Wales",616,585
+13,"X20092010","Queensland",616,5509
+13,"X20092010","Victoria",616,0.7
+13,"X20102011","New South Wales",616,109
+13,"X20102011","Queensland",616,442
+13,"X20102011","Victoria",616,12.2
+13,"X20112012","New South Wales",616,171.1
+13,"X20112012","Queensland",616,6347
+13,"X20112012","Victoria",616,31.2
+13,"X20122013","New South Wales",616,422
+13,"X20122013","Queensland",616,3714
+13,"X20122013","Victoria",616,25.2
+13,"X20132014","New South Wales",616,413
+13,"X20132014","Queensland",616,2444
+13,"X20132014","Victoria",616,16.2
+13,"X20142015","New South Wales",616,206.1
+13,"X20142015","Queensland",616,1386
+13,"X20142015","Victoria",616,37.2
+13,"X20152016","New South Wales",616,333
+13,"X20152016","Queensland",616,2341
+13,"X20152016","Victoria",616,33.1
+13,"X20162017","New South Wales",616,126.1
+13,"X20162017","Queensland",616,1238
+13,"X20162017","Victoria",616,3.5
+13,"X20172018","New South Wales",616,476
+13,"X20172018","Queensland",616,1522
+13,"X20172018","Victoria",616,91.1
+13,"X20182019","New South Wales",616,175
+13,"X20182019","Queensland",616,1584
+13,"X20182019","Victoria",616,21.3
+13,"X20192020","New South Wales",616,485
+13,"X20192020","Queensland",616,915
+13,"X20192020","Victoria",616,8.6
+14,"X20022003","New South Wales",665,995
+14,"X20022003","Queensland",665,3383
+14,"X20022003","Victoria",665,6.4
+14,"X20032004","New South Wales",665,68.2
+14,"X20032004","Queensland",665,1826
+14,"X20032004","Victoria",665,14.5
+14,"X20042005","New South Wales",665,113
+14,"X20042005","Queensland",665,3057
+14,"X20042005","Victoria",665,7.3
+14,"X20052006","New South Wales",665,534
+14,"X20052006","Queensland",665,3876
+14,"X20052006","Victoria",665,8.3
+14,"X20062007","New South Wales",665,214
+14,"X20062007","Queensland",665,2136
+14,"X20062007","Victoria",665,26.1
+14,"X20072008","New South Wales",665,561
+14,"X20072008","Queensland",665,1212
+14,"X20072008","Victoria",665,15.2
+14,"X20082009","New South Wales",665,290
+14,"X20082009","Queensland",665,2283
+14,"X20082009","Victoria",665,22.3
+14,"X20092010","New South Wales",665,297
+14,"X20092010","Queensland",665,3027
+14,"X20092010","Victoria",665,4.6
+14,"X20102011","New South Wales",665,95.1
+14,"X20102011","Queensland",665,1806
+14,"X20102011","Victoria",665,14.3
+14,"X20112012","New South Wales",665,25.3
+14,"X20112012","Queensland",665,7384
+14,"X20112012","Victoria",665,17.4
+14,"X20122013","New South Wales",665,450
+14,"X20122013","Queensland",665,1963
+14,"X20122013","Victoria",665,38.2
+14,"X20132014","New South Wales",665,156
+14,"X20132014","Queensland",665,1702
+14,"X20132014","Victoria",665,12.2
+14,"X20142015","New South Wales",665,251
+14,"X20142015","Queensland",665,2061
+14,"X20142015","Victoria",665,89.1
+14,"X20152016","New South Wales",665,270
+14,"X20152016","Queensland",665,2604
+14,"X20152016","Victoria",665,55.1
+14,"X20162017","New South Wales",665,256
+14,"X20162017","Queensland",665,1261
+14,"X20162017","Victoria",665,0.7
+14,"X20172018","New South Wales",665,52
+14,"X20172018","Queensland",665,800
+14,"X20172018","Victoria",665,54.2
+14,"X20182019","New South Wales",665,87.2
+14,"X20182019","Queensland",665,2763
+14,"X20182019","Victoria",665,14.4
+14,"X20192020","New South Wales",665,148
+14,"X20192020","Queensland",665,1574
+14,"X20192020","Victoria",665,48.2
+15,"X20022003","New South Wales",714,702
+15,"X20022003","Queensland",714,3414
+15,"X20022003","Victoria",714,20.2
+15,"X20032004","New South Wales",714,116
+15,"X20032004","Queensland",714,1002
+15,"X20032004","Victoria",714,31
+15,"X20042005","New South Wales",714,311
+15,"X20042005","Queensland",714,5771
+15,"X20042005","Victoria",714,30.1
+15,"X20052006","New South Wales",714,387
+15,"X20052006","Queensland",714,3802
+15,"X20052006","Victoria",714,19.4
+15,"X20062007","New South Wales",714,196
+15,"X20062007","Queensland",714,1947
+15,"X20062007","Victoria",714,91
+15,"X20072008","New South Wales",714,77.1
+15,"X20072008","Queensland",714,1536
+15,"X20072008","Victoria",714,45.2
+15,"X20082009","New South Wales",714,87
+15,"X20082009","Queensland",714,2211
+15,"X20082009","Victoria",714,23.2
+15,"X20092010","New South Wales",714,73
+15,"X20092010","Queensland",714,3268
+15,"X20092010","Victoria",714,26.1
+15,"X20102011","New South Wales",714,31
+15,"X20102011","Queensland",714,644
+15,"X20102011","Victoria",714,18.4
+15,"X20112012","New South Wales",714,51.1
+15,"X20112012","Queensland",714,6230
+15,"X20112012","Victoria",714,7.5
+15,"X20122013","New South Wales",714,242
+15,"X20122013","Queensland",714,3118
+15,"X20122013","Victoria",714,5.4
+15,"X20132014","New South Wales",714,244
+15,"X20132014","Queensland",714,2831
+15,"X20132014","Victoria",714,19.1
+15,"X20142015","New South Wales",714,161
+15,"X20142015","Queensland",714,2210
+15,"X20142015","Victoria",714,49.1
+15,"X20152016","New South Wales",714,199
+15,"X20152016","Queensland",714,1386
+15,"X20152016","Victoria",714,49.2
+15,"X20162017","New South Wales",714,220
+15,"X20162017","Queensland",714,3450
+15,"X20162017","Victoria",714,9.4
+15,"X20172018","New South Wales",714,38.1
+15,"X20172018","Queensland",714,1497
+15,"X20172018","Victoria",714,9.3
+15,"X20182019","New South Wales",714,45
+15,"X20182019","Queensland",714,2160
+15,"X20182019","Victoria",714,31.2
+15,"X20192020","New South Wales",714,823
+15,"X20192020","Queensland",714,1762
+15,"X20192020","Victoria",714,6.5
+16,"X20022003","New South Wales",763,1691
+16,"X20022003","Queensland",763,4610
+16,"X20022003","Victoria",763,16.4
+16,"X20032004","New South Wales",763,99
+16,"X20032004","Queensland",763,1957
+16,"X20032004","Victoria",763,66.3
+16,"X20042005","New South Wales",763,144.1
+16,"X20042005","Queensland",763,3321
+16,"X20042005","Victoria",763,25.3
+16,"X20052006","New South Wales",763,28.3
+16,"X20052006","Queensland",763,1872
+16,"X20052006","Victoria",763,13.2
+16,"X20062007","New South Wales",763,77.2
+16,"X20062007","Queensland",763,1481
+16,"X20062007","Victoria",763,16.1
+16,"X20072008","New South Wales",763,230
+16,"X20072008","Queensland",763,2401
+16,"X20072008","Victoria",763,30.2
+16,"X20082009","New South Wales",763,54
+16,"X20082009","Queensland",763,1574
+16,"X20082009","Victoria",763,21.2
+16,"X20092010","New South Wales",763,275
+16,"X20092010","Queensland",763,6068
+16,"X20092010","Victoria",763,26.4
+16,"X20102011","New South Wales",763,44
+16,"X20102011","Queensland",763,753
+16,"X20102011","Victoria",763,0.7
+16,"X20112012","New South Wales",763,159
+16,"X20112012","Queensland",763,8558
+16,"X20112012","Victoria",763,66.1
+16,"X20122013","New South Wales",763,330
+16,"X20122013","Queensland",763,5432
+16,"X20122013","Victoria",763,58.1
+16,"X20132014","New South Wales",763,1081
+16,"X20132014","Queensland",763,1387
+16,"X20132014","Victoria",763,39.1
+16,"X20142015","New South Wales",763,83
+16,"X20142015","Queensland",763,3974
+16,"X20142015","Victoria",763,26.2
+16,"X20152016","New South Wales",763,113
+16,"X20152016","Queensland",763,1836
+16,"X20152016","Victoria",763,11.5
+16,"X20162017","New South Wales",763,168
+16,"X20162017","Queensland",763,2248
+16,"X20162017","Victoria",763,10.3
+16,"X20172018","New South Wales",763,102.1
+16,"X20172018","Queensland",763,450
+16,"X20172018","Victoria",763,33.2
+16,"X20182019","New South Wales",763,69
+16,"X20182019","Queensland",763,1734
+16,"X20182019","Victoria",763,5.5
+16,"X20192020","New South Wales",763,618
+16,"X20192020","Queensland",763,1388
+16,"X20192020","Victoria",763,14.4
+17,"X20022003","New South Wales",812,2362
+17,"X20022003","Queensland",812,4721
+17,"X20022003","Victoria",812,9.4
+17,"X20032004","New South Wales",812,166
+17,"X20032004","Queensland",812,2700
+17,"X20032004","Victoria",812,7.5
+17,"X20042005","New South Wales",812,131
+17,"X20042005","Queensland",812,10229
+17,"X20042005","Victoria",812,27.2
+17,"X20052006","New South Wales",812,85
+17,"X20052006","Queensland",812,1729
+17,"X20052006","Victoria",812,5.3
+17,"X20062007","New South Wales",812,127
+17,"X20062007","Queensland",812,1259
+17,"X20062007","Victoria",812,17.4
+17,"X20072008","New South Wales",812,139
+17,"X20072008","Queensland",812,1401
+17,"X20072008","Victoria",812,15.3
+17,"X20082009","New South Wales",812,77
+17,"X20082009","Queensland",812,3736
+17,"X20082009","Victoria",812,25.3
+17,"X20092010","New South Wales",812,96.2
+17,"X20092010","Queensland",812,5521
+17,"X20092010","Victoria",812,67
+17,"X20102011","New South Wales",812,46
+17,"X20102011","Queensland",812,1398
+17,"X20102011","Victoria",812,57.1
+17,"X20112012","New South Wales",812,94
+17,"X20112012","Queensland",812,5486
+17,"X20112012","Victoria",812,4.6
+17,"X20122013","New South Wales",812,703
+17,"X20122013","Queensland",812,6476
+17,"X20122013","Victoria",812,65.1
+17,"X20132014","New South Wales",812,989
+17,"X20132014","Queensland",812,1690
+17,"X20132014","Victoria",812,2.6
+17,"X20142015","New South Wales",812,102
+17,"X20142015","Queensland",812,3527
+17,"X20142015","Victoria",812,57.1
+17,"X20152016","New South Wales",812,82
+17,"X20152016","Queensland",812,2112
+17,"X20152016","Victoria",812,12.1
+17,"X20162017","New South Wales",812,224
+17,"X20162017","Queensland",812,1310
+17,"X20162017","Victoria",812,6.4
+17,"X20172018","New South Wales",812,75
+17,"X20172018","Queensland",812,1052
+17,"X20172018","Victoria",812,17.4
+17,"X20182019","New South Wales",812,203
+17,"X20182019","Queensland",812,3259
+17,"X20182019","Victoria",812,24.2
+17,"X20192020","New South Wales",812,1247
+17,"X20192020","Queensland",812,611
+17,"X20192020","Victoria",812,36.2
+18,"X20022003","New South Wales",861,705
+18,"X20022003","Queensland",861,4543
+18,"X20022003","Victoria",861,12.3
+18,"X20032004","New South Wales",861,127
+18,"X20032004","Queensland",861,4518
+18,"X20032004","Victoria",861,8.3
+18,"X20042005","New South Wales",861,151
+18,"X20042005","Queensland",861,6425
+18,"X20042005","Victoria",861,9.3
+18,"X20052006","New South Wales",861,47.1
+18,"X20052006","Queensland",861,3200
+18,"X20052006","Victoria",861,6.2
+18,"X20062007","New South Wales",861,85.1
+18,"X20062007","Queensland",861,1151
+18,"X20062007","Victoria",861,2.5
+18,"X20072008","New South Wales",861,46
+18,"X20072008","Queensland",861,2876
+18,"X20072008","Victoria",861,4.5
+18,"X20082009","New South Wales",861,136.1
+18,"X20082009","Queensland",861,4755
+18,"X20082009","Victoria",861,62.1
+18,"X20092010","New South Wales",861,52.1
+18,"X20092010","Queensland",861,4201
+18,"X20092010","Victoria",861,18.1
+18,"X20102011","New South Wales",861,48.1
+18,"X20102011","Queensland",861,1545
+18,"X20102011","Victoria",861,28.5
+18,"X20112012","New South Wales",861,48.1
+18,"X20112012","Queensland",861,8821
+18,"X20112012","Victoria",861,7.4
+18,"X20122013","New South Wales",861,190
+18,"X20122013","Queensland",861,5330
+18,"X20122013","Victoria",861,75.3
+18,"X20132014","New South Wales",861,534
+18,"X20132014","Queensland",861,1595
+18,"X20132014","Victoria",861,37.2
+18,"X20142015","New South Wales",861,450
+18,"X20142015","Queensland",861,3421
+18,"X20142015","Victoria",861,14.3
+18,"X20152016","New South Wales",861,16.2
+18,"X20152016","Queensland",861,2167
+18,"X20152016","Victoria",861,1.6
+18,"X20162017","New South Wales",861,144.1
+18,"X20162017","Queensland",861,2622
+18,"X20162017","Victoria",861,15.1
+18,"X20172018","New South Wales",861,144
+18,"X20172018","Queensland",861,2153
+18,"X20172018","Victoria",861,6.4
+18,"X20182019","New South Wales",861,121
+18,"X20182019","Queensland",861,2000
+18,"X20182019","Victoria",861,28
+18,"X20192020","New South Wales",861,945
+18,"X20192020","Queensland",861,290
+18,"X20192020","Victoria",861,6.4
+19,"X20022003","New South Wales",910,2296
+19,"X20022003","Queensland",910,4014
+19,"X20022003","Victoria",910,17.2
+19,"X20032004","New South Wales",910,95
+19,"X20032004","Queensland",910,3961
+19,"X20032004","Victoria",910,74.1
+19,"X20042005","New South Wales",910,61
+19,"X20042005","Queensland",910,3080
+19,"X20042005","Victoria",910,2.5
+19,"X20052006","New South Wales",910,25.1
+19,"X20052006","Queensland",910,2676
+19,"X20052006","Victoria",910,13.3
+19,"X20062007","New South Wales",910,24.2
+19,"X20062007","Queensland",910,3034
+19,"X20062007","Victoria",910,6.6
+19,"X20072008","New South Wales",910,14.3
+19,"X20072008","Queensland",910,4124
+19,"X20072008","Victoria",910,16.1
+19,"X20082009","New South Wales",910,46
+19,"X20082009","Queensland",910,4362
+19,"X20082009","Victoria",910,7.5
+19,"X20092010","New South Wales",910,49
+19,"X20092010","Queensland",910,4079
+19,"X20092010","Victoria",910,75
+19,"X20102011","New South Wales",910,19.1
+19,"X20102011","Queensland",910,765
+19,"X20102011","Victoria",910,38.4
+19,"X20112012","New South Wales",910,84
+19,"X20112012","Queensland",910,5944
+19,"X20112012","Victoria",910,69.2
+19,"X20122013","New South Wales",910,65
+19,"X20122013","Queensland",910,7643
+19,"X20122013","Victoria",910,17.2
+19,"X20132014","New South Wales",910,790
+19,"X20132014","Queensland",910,2275
+19,"X20132014","Victoria",910,58.1
+19,"X20142015","New South Wales",910,51
+19,"X20142015","Queensland",910,2204
+19,"X20142015","Victoria",910,31
+19,"X20152016","New South Wales",910,34.4
+19,"X20152016","Queensland",910,1214
+19,"X20152016","Victoria",910,0.7
+19,"X20162017","New South Wales",910,394
+19,"X20162017","Queensland",910,2045
+19,"X20162017","Victoria",910,27.1
+19,"X20172018","New South Wales",910,87
+19,"X20172018","Queensland",910,2350
+19,"X20172018","Victoria",910,25.3
+19,"X20182019","New South Wales",910,78
+19,"X20182019","Queensland",910,2272
+19,"X20182019","Victoria",910,3.5
+19,"X20192020","New South Wales",910,9303
+19,"X20192020","Queensland",910,1928
+19,"X20192020","Victoria",910,4.5
+20,"X20022003","New South Wales",959,265.1
+20,"X20022003","Queensland",959,1698
+20,"X20022003","Victoria",959,3.5
+20,"X20032004","New South Wales",959,93
+20,"X20032004","Queensland",959,3299
+20,"X20032004","Victoria",959,67.1
+20,"X20042005","New South Wales",959,127
+20,"X20042005","Queensland",959,8047
+20,"X20042005","Victoria",959,20.3
+20,"X20052006","New South Wales",959,105
+20,"X20052006","Queensland",959,2135
+20,"X20052006","Victoria",959,24.1
+20,"X20062007","New South Wales",959,155
+20,"X20062007","Queensland",959,8430
+20,"X20062007","Victoria",959,2.5
+20,"X20072008","New South Wales",959,80
+20,"X20072008","Queensland",959,1431
+20,"X20072008","Victoria",959,32.2
+20,"X20082009","New South Wales",959,68.1
+20,"X20082009","Queensland",959,6219
+20,"X20082009","Victoria",959,12.2
+20,"X20092010","New South Wales",959,96
+20,"X20092010","Queensland",959,4735
+20,"X20092010","Victoria",959,31.1
+20,"X20102011","New South Wales",959,31.1
+20,"X20102011","Queensland",959,442
+20,"X20102011","Victoria",959,29.3
+20,"X20112012","New South Wales",959,35.2
+20,"X20112012","Queensland",959,10082
+20,"X20112012","Victoria",959,27
+20,"X20122013","New South Wales",959,93
+20,"X20122013","Queensland",959,5694
+20,"X20122013","Victoria",959,64.2
+20,"X20132014","New South Wales",959,83
+20,"X20132014","Queensland",959,1644
+20,"X20132014","Victoria",959,20.3
+20,"X20142015","New South Wales",959,169.1
+20,"X20142015","Queensland",959,3007
+20,"X20142015","Victoria",959,17.4
+20,"X20152016","New South Wales",959,49
+20,"X20152016","Queensland",959,1240
+20,"X20152016","Victoria",959,31.2
+20,"X20162017","New South Wales",959,47
+20,"X20162017","Queensland",959,3742
+20,"X20162017","Victoria",959,15.4
+20,"X20172018","New South Wales",959,48
+20,"X20172018","Queensland",959,1680
+20,"X20172018","Victoria",959,40.3
+20,"X20182019","New South Wales",959,101.1
+20,"X20182019","Queensland",959,2741
+20,"X20182019","Victoria",959,4.5
+20,"X20192020","New South Wales",959,8383
+20,"X20192020","Queensland",959,2549
+20,"X20192020","Victoria",959,8.3
+21,"X20022003","New South Wales",1008,372
+21,"X20022003","Queensland",1008,1932
+21,"X20022003","Victoria",1008,11.4
+21,"X20032004","New South Wales",1008,49.2
+21,"X20032004","Queensland",1008,2774
+21,"X20032004","Victoria",1008,5.5
+21,"X20042005","New South Wales",1008,42.1
+21,"X20042005","Queensland",1008,2063
+21,"X20042005","Victoria",1008,57.2
+21,"X20052006","New South Wales",1008,24.1
+21,"X20052006","Queensland",1008,1392
+21,"X20052006","Victoria",1008,23.2
+21,"X20062007","New South Wales",1008,1141
+21,"X20062007","Queensland",1008,8184
+21,"X20062007","Victoria",1008,164.2
+21,"X20072008","New South Wales",1008,90.1
+21,"X20072008","Queensland",1008,2478
+21,"X20072008","Victoria",1008,98.2
+21,"X20082009","New South Wales",1008,18.2
+21,"X20082009","Queensland",1008,1973
+21,"X20082009","Victoria",1008,3.5
+21,"X20092010","New South Wales",1008,345
+21,"X20092010","Queensland",1008,8947
+21,"X20092010","Victoria",1008,11.5
+21,"X20102011","New South Wales",1008,29
+21,"X20102011","Queensland",1008,618
+21,"X20102011","Victoria",1008,38.2
+21,"X20112012","New South Wales",1008,42.2
+21,"X20112012","Queensland",1008,3373
+21,"X20112012","Victoria",1008,12.3
+21,"X20122013","New South Wales",1008,57
+21,"X20122013","Queensland",1008,8393
+21,"X20122013","Victoria",1008,79
+21,"X20132014","New South Wales",1008,44.1
+21,"X20132014","Queensland",1008,1173
+21,"X20132014","Victoria",1008,6.3
+21,"X20142015","New South Wales",1008,194
+21,"X20142015","Queensland",1008,2430
+21,"X20142015","Victoria",1008,19.2
+21,"X20152016","New South Wales",1008,97
+21,"X20152016","Queensland",1008,2649
+21,"X20152016","Victoria",1008,12.3
+21,"X20162017","New South Wales",1008,167
+21,"X20162017","Queensland",1008,5680
+21,"X20162017","Victoria",1008,13.1
+21,"X20172018","New South Wales",1008,41
+21,"X20172018","Queensland",1008,1415
+21,"X20172018","Victoria",1008,11.3
+21,"X20182019","New South Wales",1008,55.1
+21,"X20182019","Queensland",1008,1968
+21,"X20182019","Victoria",1008,4.4
+21,"X20192020","New South Wales",1008,5216
+21,"X20192020","Queensland",1008,1566
+21,"X20192020","Victoria",1008,269.1
+22,"X20022003","New South Wales",1057,412
+22,"X20022003","Queensland",1057,1604
+22,"X20022003","Victoria",1057,7.6
+22,"X20032004","New South Wales",1057,102
+22,"X20032004","Queensland",1057,3095
+22,"X20032004","Victoria",1057,14.4
+22,"X20042005","New South Wales",1057,172
+22,"X20042005","Queensland",1057,3641
+22,"X20042005","Victoria",1057,48.3
+22,"X20052006","New South Wales",1057,37
+22,"X20052006","Queensland",1057,2861
+22,"X20052006","Victoria",1057,10.3
+22,"X20062007","New South Wales",1057,1709
+22,"X20062007","Queensland",1057,6050
+22,"X20062007","Victoria",1057,24.1
+22,"X20072008","New South Wales",1057,20.2
+22,"X20072008","Queensland",1057,1990
+22,"X20072008","Victoria",1057,4.4
+22,"X20082009","New South Wales",1057,27
+22,"X20082009","Queensland",1057,1776
+22,"X20082009","Victoria",1057,4.5
+22,"X20092010","New South Wales",1057,382
+22,"X20092010","Queensland",1057,6773
+22,"X20092010","Victoria",1057,5.4
+22,"X20102011","New South Wales",1057,7.5
+22,"X20102011","Queensland",1057,490
+22,"X20102011","Victoria",1057,2.5
+22,"X20112012","New South Wales",1057,11.4
+22,"X20112012","Queensland",1057,3609
+22,"X20112012","Victoria",1057,3.5
+22,"X20122013","New South Wales",1057,122
+22,"X20122013","Queensland",1057,8342
+22,"X20122013","Victoria",1057,4.4
+22,"X20132014","New South Wales",1057,133
+22,"X20132014","Queensland",1057,1378
+22,"X20132014","Victoria",1057,20.2
+22,"X20142015","New South Wales",1057,55
+22,"X20142015","Queensland",1057,1137
+22,"X20142015","Victoria",1057,20.3
+22,"X20152016","New South Wales",1057,146
+22,"X20152016","Queensland",1057,1641
+22,"X20152016","Victoria",1057,6.5
+22,"X20162017","New South Wales",1057,99
+22,"X20162017","Queensland",1057,2531
+22,"X20162017","Victoria",1057,27.3
+22,"X20172018","New South Wales",1057,55
+22,"X20172018","Queensland",1057,937
+22,"X20172018","Victoria",1057,65.2
+22,"X20182019","New South Wales",1057,89
+22,"X20182019","Queensland",1057,9971
+22,"X20182019","Victoria",1057,10.5
+22,"X20192020","New South Wales",1057,2478
+22,"X20192020","Queensland",1057,891
+22,"X20192020","Victoria",1057,280.2
+23,"X20022003","New South Wales",1106,2238
+23,"X20022003","Queensland",1106,3136
+23,"X20022003","Victoria",1106,1.6
+23,"X20032004","New South Wales",1106,35
+23,"X20032004","Queensland",1106,852
+23,"X20032004","Victoria",1106,16.3
+23,"X20042005","New South Wales",1106,92.1
+23,"X20042005","Queensland",1106,3068
+23,"X20042005","Victoria",1106,6.4
+23,"X20052006","New South Wales",1106,87
+23,"X20052006","Queensland",1106,1665
+23,"X20052006","Victoria",1106,2.5
+23,"X20062007","New South Wales",1106,594
+23,"X20062007","Queensland",1106,2380
+23,"X20062007","Victoria",1106,3471
+23,"X20072008","New South Wales",1106,24.1
+23,"X20072008","Queensland",1106,1249
+23,"X20072008","Victoria",1106,57.5
+23,"X20082009","New South Wales",1106,36.2
+23,"X20082009","Queensland",1106,2899
+23,"X20082009","Victoria",1106,3.6
+23,"X20092010","New South Wales",1106,513
+23,"X20092010","Queensland",1106,8283
+23,"X20092010","Victoria",1106,4.5
+23,"X20102011","New South Wales",1106,15.2
+23,"X20102011","Queensland",1106,358
+23,"X20102011","Victoria",1106,10.4
+23,"X20112012","New South Wales",1106,4.4
+23,"X20112012","Queensland",1106,2487
+23,"X20112012","Victoria",1106,58.2
+23,"X20122013","New South Wales",1106,175
+23,"X20122013","Queensland",1106,13164
+23,"X20122013","Victoria",1106,10.2
+23,"X20132014","New South Wales",1106,127
+23,"X20132014","Queensland",1106,2197
+23,"X20132014","Victoria",1106,15.4
+23,"X20142015","New South Wales",1106,48
+23,"X20142015","Queensland",1106,1172
+23,"X20142015","Victoria",1106,8.4
+23,"X20152016","New South Wales",1106,98
+23,"X20152016","Queensland",1106,1200
+23,"X20152016","Victoria",1106,23.5
+23,"X20162017","New South Wales",1106,58.1
+23,"X20162017","Queensland",1106,3926
+23,"X20162017","Victoria",1106,19.1
+23,"X20172018","New South Wales",1106,87
+23,"X20172018","Queensland",1106,1487
+23,"X20172018","Victoria",1106,7.5
+23,"X20182019","New South Wales",1106,183
+23,"X20182019","Queensland",1106,4159
+23,"X20182019","Victoria",1106,6.5
+23,"X20192020","New South Wales",1106,12806
+23,"X20192020","Queensland",1106,2691
+23,"X20192020","Victoria",1106,151
+24,"X20022003","New South Wales",1155,298
+24,"X20022003","Queensland",1155,2731
+24,"X20022003","Victoria",1155,8.5
+24,"X20032004","New South Wales",1155,98
+24,"X20032004","Queensland",1155,1094
+24,"X20032004","Victoria",1155,16.4
+24,"X20042005","New South Wales",1155,47.2
+24,"X20042005","Queensland",1155,600
+24,"X20042005","Victoria",1155,2.6
+24,"X20052006","New South Wales",1155,154
+24,"X20052006","Queensland",1155,4254
+24,"X20052006","Victoria",1155,21.2
+24,"X20062007","New South Wales",1155,439
+24,"X20062007","Queensland",1155,1607
+24,"X20062007","Victoria",1155,4725
+24,"X20072008","New South Wales",1155,23.1
+24,"X20072008","Queensland",1155,1507
+24,"X20072008","Victoria",1155,8.5
+24,"X20082009","New South Wales",1155,37.1
+24,"X20082009","Queensland",1155,1422
+24,"X20082009","Victoria",1155,12.5
+24,"X20092010","New South Wales",1155,1337
+24,"X20092010","Queensland",1155,4641
+24,"X20092010","Victoria",1155,17.2
+24,"X20102011","New South Wales",1155,37
+24,"X20102011","Queensland",1155,310
+24,"X20102011","Victoria",1155,4.3
+24,"X20112012","New South Wales",1155,5.3
+24,"X20112012","Queensland",1155,4014
+24,"X20112012","Victoria",1155,5.4
+24,"X20122013","New South Wales",1155,143
+24,"X20122013","Queensland",1155,9943
+24,"X20122013","Victoria",1155,28.4
+24,"X20132014","New South Wales",1155,54.1
+24,"X20132014","Queensland",1155,1239
+24,"X20132014","Victoria",1155,24.2
+24,"X20142015","New South Wales",1155,63
+24,"X20142015","Queensland",1155,806
+24,"X20142015","Victoria",1155,21.1
+24,"X20152016","New South Wales",1155,91
+24,"X20152016","Queensland",1155,763
+24,"X20152016","Victoria",1155,12.4
+24,"X20162017","New South Wales",1155,123
+24,"X20162017","Queensland",1155,1515
+24,"X20162017","Victoria",1155,2.5
+24,"X20172018","New South Wales",1155,104
+24,"X20172018","Queensland",1155,2694
+24,"X20172018","Victoria",1155,28
+24,"X20182019","New South Wales",1155,25.2
+24,"X20182019","Queensland",1155,313
+24,"X20182019","Victoria",1155,1.6
+24,"X20192020","New South Wales",1155,4558
+24,"X20192020","Queensland",1155,2971
+24,"X20192020","Victoria",1155,284
+25,"X20022003","New South Wales",1204,286
+25,"X20022003","Queensland",1204,2510
+25,"X20022003","Victoria",1204,678.1
+25,"X20032004","New South Wales",1204,51.1
+25,"X20032004","Queensland",1204,627
+25,"X20032004","Victoria",1204,0.7
+25,"X20042005","New South Wales",1204,116
+25,"X20042005","Queensland",1204,1496
+25,"X20042005","Victoria",1204,15.3
+25,"X20052006","New South Wales",1204,117
+25,"X20052006","Queensland",1204,3662
+25,"X20052006","Victoria",1204,23.3
+25,"X20062007","New South Wales",1204,300
+25,"X20062007","Queensland",1204,2644
+25,"X20062007","Victoria",1204,2455
+25,"X20072008","New South Wales",1204,21.1
+25,"X20072008","Queensland",1204,1277
+25,"X20072008","Victoria",1204,5.6
+25,"X20082009","New South Wales",1204,108.1
+25,"X20082009","Queensland",1204,1314
+25,"X20082009","Victoria",1204,5.4
+25,"X20092010","New South Wales",1204,128
+25,"X20092010","Queensland",1204,1554
+25,"X20092010","Victoria",1204,35.1
+25,"X20102011","New South Wales",1204,42
+25,"X20102011","Queensland",1204,201
+25,"X20102011","Victoria",1204,3.5
+25,"X20112012","New South Wales",1204,16.3
+25,"X20112012","Queensland",1204,1738
+25,"X20112012","Victoria",1204,9.4
+25,"X20122013","New South Wales",1204,93
+25,"X20122013","Queensland",1204,4608
+25,"X20122013","Victoria",1204,9.2
+25,"X20132014","New South Wales",1204,192
+25,"X20132014","Queensland",1204,1271
+25,"X20132014","Victoria",1204,11.3
+25,"X20142015","New South Wales",1204,114.1
+25,"X20142015","Queensland",1204,1736
+25,"X20142015","Victoria",1204,53.2
+25,"X20152016","New South Wales",1204,94
+25,"X20152016","Queensland",1204,370
+25,"X20152016","Victoria",1204,15.2
+25,"X20162017","New South Wales",1204,73
+25,"X20162017","Queensland",1204,726
+25,"X20162017","Victoria",1204,8.4
+25,"X20172018","New South Wales",1204,75
+25,"X20172018","Queensland",1204,2168
+25,"X20172018","Victoria",1204,26.3
+25,"X20182019","New South Wales",1204,82
+25,"X20182019","Queensland",1204,673
+25,"X20182019","Victoria",1204,1.6
+25,"X20192020","New South Wales",1204,10426
+25,"X20192020","Queensland",1204,5757
+25,"X20192020","Victoria",1204,1213
+26,"X20022003","New South Wales",1253,125
+26,"X20022003","Queensland",1253,2227
+26,"X20022003","Victoria",1253,81
+26,"X20032004","New South Wales",1253,36
+26,"X20032004","Queensland",1253,324
+26,"X20032004","Victoria",1253,10.3
+26,"X20042005","New South Wales",1253,28.2
+26,"X20042005","Queensland",1253,183
+26,"X20042005","Victoria",1253,43.2
+26,"X20052006","New South Wales",1253,124
+26,"X20052006","Queensland",1253,1329
+26,"X20052006","Victoria",1253,30.4
+26,"X20062007","New South Wales",1253,23
+26,"X20062007","Queensland",1253,1004
+26,"X20062007","Victoria",1253,230
+26,"X20072008","New South Wales",1253,17.1
+26,"X20072008","Queensland",1253,174
+26,"X20072008","Victoria",1253,21.2
+26,"X20082009","New South Wales",1253,63.1
+26,"X20082009","Queensland",1253,686
+26,"X20082009","Victoria",1253,10.3
+26,"X20092010","New South Wales",1253,30.3
+26,"X20092010","Queensland",1253,904
+26,"X20092010","Victoria",1253,4.4
+26,"X20102011","New South Wales",1253,21.3
+26,"X20102011","Queensland",1253,45.1
+26,"X20102011","Victoria",1253,6.5
+26,"X20112012","New South Wales",1253,11.2
+26,"X20112012","Queensland",1253,1401
+26,"X20112012","Victoria",1253,7.4
+26,"X20122013","New South Wales",1253,142
+26,"X20122013","Queensland",1253,1341
+26,"X20122013","Victoria",1253,18.3
+26,"X20132014","New South Wales",1253,42.1
+26,"X20132014","Queensland",1253,1205
+26,"X20132014","Victoria",1253,47.2
+26,"X20142015","New South Wales",1253,20.4
+26,"X20142015","Queensland",1253,1324
+26,"X20142015","Victoria",1253,23.2
+26,"X20152016","New South Wales",1253,16.1
+26,"X20152016","Queensland",1253,263
+26,"X20152016","Victoria",1253,28.4
+26,"X20162017","New South Wales",1253,39
+26,"X20162017","Queensland",1253,311
+26,"X20162017","Victoria",1253,6.5
+26,"X20172018","New South Wales",1253,42
+26,"X20172018","Queensland",1253,1928
+26,"X20172018","Victoria",1253,9.3
+26,"X20182019","New South Wales",1253,58
+26,"X20182019","Queensland",1253,1097
+26,"X20182019","Victoria",1253,24.2
+26,"X20192020","New South Wales",1253,4422
+26,"X20192020","Queensland",1253,2684
+26,"X20192020","Victoria",1253,1016
+27,"X20022003","New South Wales",1302,96
+27,"X20022003","Queensland",1302,1592
+27,"X20022003","Victoria",1302,17.3
+27,"X20032004","New South Wales",1302,74
+27,"X20032004","Queensland",1302,1276
+27,"X20032004","Victoria",1302,12.5
+27,"X20042005","New South Wales",1302,43.1
+27,"X20042005","Queensland",1302,527
+27,"X20042005","Victoria",1302,12.3
+27,"X20052006","New South Wales",1302,295
+27,"X20052006","Queensland",1302,1728
+27,"X20052006","Victoria",1302,69.3
+27,"X20062007","New South Wales",1302,19.2
+27,"X20062007","Queensland",1302,853
+27,"X20062007","Victoria",1302,562
+27,"X20072008","New South Wales",1302,23.2
+27,"X20072008","Queensland",1302,441
+27,"X20072008","Victoria",1302,43.1
+27,"X20082009","New South Wales",1302,38.2
+27,"X20082009","Queensland",1302,221
+27,"X20082009","Victoria",1302,10.5
+27,"X20092010","New South Wales",1302,20.1
+27,"X20092010","Queensland",1302,285
+27,"X20092010","Victoria",1302,6.4
+27,"X20102011","New South Wales",1302,53
+27,"X20102011","Queensland",1302,91
+27,"X20102011","Victoria",1302,2.5
+27,"X20112012","New South Wales",1302,40.1
+27,"X20112012","Queensland",1302,3364
+27,"X20112012","Victoria",1302,25.2
+27,"X20122013","New South Wales",1302,86
+27,"X20122013","Queensland",1302,2222
+27,"X20122013","Victoria",1302,23
+27,"X20132014","New South Wales",1302,271.1
+27,"X20132014","Queensland",1302,4302
+27,"X20132014","Victoria",1302,4.4
+27,"X20142015","New South Wales",1302,36.1
+27,"X20142015","Queensland",1302,332
+27,"X20142015","Victoria",1302,53.3
+27,"X20152016","New South Wales",1302,16.2
+27,"X20152016","Queensland",1302,203
+27,"X20152016","Victoria",1302,11.5
+27,"X20162017","New South Wales",1302,95.1
+27,"X20162017","Queensland",1302,267
+27,"X20162017","Victoria",1302,1.6
+27,"X20172018","New South Wales",1302,25.1
+27,"X20172018","Queensland",1302,1145
+27,"X20172018","Victoria",1302,10.1
+27,"X20182019","New South Wales",1302,97
+27,"X20182019","Queensland",1302,1566
+27,"X20182019","Victoria",1302,86.2
+27,"X20192020","New South Wales",1302,NA
+27,"X20192020","Queensland",1302,NA
+27,"X20192020","Victoria",1302,NA
+28,"X20022003","New South Wales",1351,1506
+28,"X20022003","Queensland",1351,1650
+28,"X20022003","Victoria",1351,687
+28,"X20032004","New South Wales",1351,129
+28,"X20032004","Queensland",1351,591
+28,"X20032004","Victoria",1351,4.5
+28,"X20042005","New South Wales",1351,105
+28,"X20042005","Queensland",1351,460
+28,"X20042005","Victoria",1351,27.6
+28,"X20052006","New South Wales",1351,61
+28,"X20052006","Queensland",1351,1057
+28,"X20052006","Victoria",1351,3.5
+28,"X20062007","New South Wales",1351,92.1
+28,"X20062007","Queensland",1351,562
+28,"X20062007","Victoria",1351,2646
+28,"X20072008","New South Wales",1351,37.1
+28,"X20072008","Queensland",1351,67.1
+28,"X20072008","Victoria",1351,37.2
+28,"X20082009","New South Wales",1351,69
+28,"X20082009","Queensland",1351,163
+28,"X20082009","Victoria",1351,11.4
+28,"X20092010","New South Wales",1351,84
+28,"X20092010","Queensland",1351,836
+28,"X20092010","Victoria",1351,25.2
+28,"X20102011","New South Wales",1351,22.2
+28,"X20102011","Queensland",1351,100
+28,"X20102011","Victoria",1351,2.6
+28,"X20112012","New South Wales",1351,66
+28,"X20112012","Queensland",1351,4091
+28,"X20112012","Victoria",1351,6.4
+28,"X20122013","New South Wales",1351,713
+28,"X20122013","Queensland",1351,3513
+28,"X20122013","Victoria",1351,164.1
+28,"X20132014","New South Wales",1351,273
+28,"X20132014","Queensland",1351,837
+28,"X20132014","Victoria",1351,6.4
+28,"X20142015","New South Wales",1351,28.2
+28,"X20142015","Queensland",1351,310
+28,"X20142015","Victoria",1351,24.3
+28,"X20152016","New South Wales",1351,98
+28,"X20152016","Queensland",1351,679
+28,"X20152016","Victoria",1351,13.2
+28,"X20162017","New South Wales",1351,55
+28,"X20162017","Queensland",1351,244
+28,"X20162017","Victoria",1351,9.3
+28,"X20172018","New South Wales",1351,51
+28,"X20172018","Queensland",1351,614
+28,"X20172018","Victoria",1351,24.5
+28,"X20182019","New South Wales",1351,97
+28,"X20182019","Queensland",1351,448
+28,"X20182019","Victoria",1351,58.1
+28,"X20192020","New South Wales",1351,NA
+28,"X20192020","Queensland",1351,NA
+28,"X20192020","Victoria",1351,NA
+29,"X20022003","New South Wales",1400,3551
+29,"X20022003","Queensland",1400,592
+29,"X20022003","Victoria",1400,2749
+29,"X20032004","New South Wales",1400,37.1
+29,"X20032004","Queensland",1400,31.2
+29,"X20032004","Victoria",1400,13.4
+29,"X20042005","New South Wales",1400,154
+29,"X20042005","Queensland",1400,891
+29,"X20042005","Victoria",1400,47.3
+29,"X20052006","New South Wales",1400,29
+29,"X20052006","Queensland",1400,272
+29,"X20052006","Victoria",1400,41.4
+29,"X20062007","New South Wales",1400,721
+29,"X20062007","Queensland",1400,283
+29,"X20062007","Victoria",1400,1385.3
+29,"X20072008","New South Wales",1400,19.2
+29,"X20072008","Queensland",1400,98.1
+29,"X20072008","Victoria",1400,10.1
+29,"X20082009","New South Wales",1400,65.1
+29,"X20082009","Queensland",1400,334
+29,"X20082009","Victoria",1400,10.4
+29,"X20092010","New South Wales",1400,74
+29,"X20092010","Queensland",1400,2213
+29,"X20092010","Victoria",1400,38.2
+29,"X20102011","New South Wales",1400,50.2
+29,"X20102011","Queensland",1400,132
+29,"X20102011","Victoria",1400,3.5
+29,"X20112012","New South Wales",1400,16.1
+29,"X20112012","Queensland",1400,1299
+29,"X20112012","Victoria",1400,10.3
+29,"X20122013","New South Wales",1400,618
+29,"X20122013","Queensland",1400,3176
+29,"X20122013","Victoria",1400,408.2
+29,"X20132014","New South Wales",1400,734
+29,"X20132014","Queensland",1400,1170
+29,"X20132014","Victoria",1400,1369
+29,"X20142015","New South Wales",1400,63.1
+29,"X20142015","Queensland",1400,195
+29,"X20142015","Victoria",1400,10.5
+29,"X20152016","New South Wales",1400,171
+29,"X20152016","Queensland",1400,429
+29,"X20152016","Victoria",1400,8.3
+29,"X20162017","New South Wales",1400,132
+29,"X20162017","Queensland",1400,203
+29,"X20162017","Victoria",1400,21.4
+29,"X20172018","New South Wales",1400,679
+29,"X20172018","Queensland",1400,623
+29,"X20172018","Victoria",1400,41.1
+29,"X20182019","New South Wales",1400,145
+29,"X20182019","Queensland",1400,568
+29,"X20182019","Victoria",1400,8.4
+29,"X20192020","New South Wales",1400,NA
+29,"X20192020","Queensland",1400,NA
+29,"X20192020","Victoria",1400,NA
+30,"X20022003","New South Wales",1449,4194
+30,"X20022003","Queensland",1449,711
+30,"X20022003","Victoria",1449,5967
+30,"X20032004","New South Wales",1449,95
+30,"X20032004","Queensland",1449,211
+30,"X20032004","Victoria",1449,7.3
+30,"X20042005","New South Wales",1449,69.1
+30,"X20042005","Queensland",1449,340
+30,"X20042005","Victoria",1449,24.6
+30,"X20052006","New South Wales",1449,54
+30,"X20052006","Queensland",1449,266
+30,"X20052006","Victoria",1449,1602
+30,"X20062007","New South Wales",1449,179.2
+30,"X20062007","Queensland",1449,139
+30,"X20062007","Victoria",1449,40.2
+30,"X20072008","New South Wales",1449,21
+30,"X20072008","Queensland",1449,117
+30,"X20072008","Victoria",1449,1.6
+30,"X20082009","New South Wales",1449,44.1
+30,"X20082009","Queensland",1449,71.1
+30,"X20082009","Victoria",1449,3.6
+30,"X20092010","New South Wales",1449,131
+30,"X20092010","Queensland",1449,1364
+30,"X20092010","Victoria",1449,74.1
+30,"X20102011","New South Wales",1449,83
+30,"X20102011","Queensland",1449,175
+30,"X20102011","Victoria",1449,1.6
+30,"X20112012","New South Wales",1449,48.2
+30,"X20112012","Queensland",1449,638
+30,"X20112012","Victoria",1449,14.3
+30,"X20122013","New South Wales",1449,174
+30,"X20122013","Queensland",1449,1042
+30,"X20122013","Victoria",1449,353
+30,"X20132014","New South Wales",1449,353.1
+30,"X20132014","Queensland",1449,1015
+30,"X20132014","Victoria",1449,349.2
+30,"X20142015","New South Wales",1449,41
+30,"X20142015","Queensland",1449,156.1
+30,"X20142015","Victoria",1449,1.6
+30,"X20152016","New South Wales",1449,42.1
+30,"X20152016","Queensland",1449,355
+30,"X20152016","Victoria",1449,7.4
+30,"X20162017","New South Wales",1449,71.1
+30,"X20162017","Queensland",1449,375
+30,"X20162017","Victoria",1449,15.4
+30,"X20172018","New South Wales",1449,794
+30,"X20172018","Queensland",1449,448
+30,"X20172018","Victoria",1449,20.4
+30,"X20182019","New South Wales",1449,226
+30,"X20182019","Queensland",1449,504
+30,"X20182019","Victoria",1449,134
+30,"X20192020","New South Wales",1449,NA
+30,"X20192020","Queensland",1449,NA
+30,"X20192020","Victoria",1449,NA
+31,"X20022003","New South Wales",1498,1742
+31,"X20022003","Queensland",1498,793
+31,"X20022003","Victoria",1498,2983
+31,"X20032004","New South Wales",1498,111
+31,"X20032004","Queensland",1498,263
+31,"X20032004","Victoria",1498,1.6
+31,"X20042005","New South Wales",1498,113
+31,"X20042005","Queensland",1498,285
+31,"X20042005","Victoria",1498,44.1
+31,"X20052006","New South Wales",1498,93
+31,"X20052006","Queensland",1498,607
+31,"X20052006","Victoria",1498,39.3
+31,"X20062007","New South Wales",1498,148
+31,"X20062007","Queensland",1498,279
+31,"X20062007","Victoria",1498,79
+31,"X20072008","New South Wales",1498,46
+31,"X20072008","Queensland",1498,262
+31,"X20072008","Victoria",1498,3.5
+31,"X20082009","New South Wales",1498,127
+31,"X20082009","Queensland",1498,100
+31,"X20082009","Victoria",1498,142.1
+31,"X20092010","New South Wales",1498,25
+31,"X20092010","Queensland",1498,299.1
+31,"X20092010","Victoria",1498,20.1
+31,"X20102011","New South Wales",1498,116
+31,"X20102011","Queensland",1498,602
+31,"X20102011","Victoria",1498,19.5
+31,"X20112012","New South Wales",1498,0.7
+31,"X20112012","Queensland",1498,31.2
+31,"X20112012","Victoria",1498,19.4
+31,"X20122013","New South Wales",1498,71
+31,"X20122013","Queensland",1498,1305
+31,"X20122013","Victoria",1498,55.2
+31,"X20132014","New South Wales",1498,229
+31,"X20132014","Queensland",1498,407
+31,"X20132014","Victoria",1498,290
+31,"X20142015","New South Wales",1498,32
+31,"X20142015","Queensland",1498,257
+31,"X20142015","Victoria",1498,4.4
+31,"X20152016","New South Wales",1498,60.1
+31,"X20152016","Queensland",1498,97
+31,"X20152016","Victoria",1498,5.6
+31,"X20162017","New South Wales",1498,79
+31,"X20162017","Queensland",1498,323
+31,"X20162017","Victoria",1498,4.5
+31,"X20172018","New South Wales",1498,66
+31,"X20172018","Queensland",1498,197
+31,"X20172018","Victoria",1498,6.4
+31,"X20182019","New South Wales",1498,210
+31,"X20182019","Queensland",1498,210
+31,"X20182019","Victoria",1498,197.1
+31,"X20192020","New South Wales",1498,NA
+31,"X20192020","Queensland",1498,NA
+31,"X20192020","Victoria",1498,NA
+32,"X20022003","New South Wales",1547,1020
+32,"X20022003","Queensland",1547,246
+32,"X20022003","Victoria",1547,2894
+32,"X20032004","New South Wales",1547,123
+32,"X20032004","Queensland",1547,167
+32,"X20032004","Victoria",1547,24.3
+32,"X20042005","New South Wales",1547,144
+32,"X20042005","Queensland",1547,858
+32,"X20042005","Victoria",1547,0.7
+32,"X20052006","New South Wales",1547,275
+32,"X20052006","Queensland",1547,601
+32,"X20052006","Victoria",1547,18.3
+32,"X20062007","New South Wales",1547,383
+32,"X20062007","Queensland",1547,395
+32,"X20062007","Victoria",1547,67.2
+32,"X20072008","New South Wales",1547,26.3
+32,"X20072008","Queensland",1547,84
+32,"X20072008","Victoria",1547,3.6
+32,"X20082009","New South Wales",1547,199
+32,"X20082009","Queensland",1547,328
+32,"X20082009","Victoria",1547,1117
+32,"X20092010","New South Wales",1547,22.2
+32,"X20092010","Queensland",1547,272
+32,"X20092010","Victoria",1547,3.6
+32,"X20102011","New South Wales",1547,61.1
+32,"X20102011","Queensland",1547,78.1
+32,"X20102011","Victoria",1547,4.6
+32,"X20112012","New South Wales",1547,46.1
+32,"X20112012","Queensland",1547,210
+32,"X20112012","Victoria",1547,8.5
+32,"X20122013","New South Wales",1547,87
+32,"X20122013","Queensland",1547,2195
+32,"X20122013","Victoria",1547,329
+32,"X20132014","New South Wales",1547,95
+32,"X20132014","Queensland",1547,241
+32,"X20132014","Victoria",1547,1455
+32,"X20142015","New South Wales",1547,114
+32,"X20142015","Queensland",1547,322
+32,"X20142015","Victoria",1547,8.5
+32,"X20152016","New South Wales",1547,98.1
+32,"X20152016","Queensland",1547,68
+32,"X20152016","Victoria",1547,6.5
+32,"X20162017","New South Wales",1547,149
+32,"X20162017","Queensland",1547,259
+32,"X20162017","Victoria",1547,10.4
+32,"X20172018","New South Wales",1547,111
+32,"X20172018","Queensland",1547,272
+32,"X20172018","Victoria",1547,5.4
+32,"X20182019","New South Wales",1547,112
+32,"X20182019","Queensland",1547,89.2
+32,"X20182019","Victoria",1547,98.5
+32,"X20192020","New South Wales",1547,NA
+32,"X20192020","Queensland",1547,NA
+32,"X20192020","Victoria",1547,NA
+33,"X20022003","New South Wales",1596,253
+33,"X20022003","Queensland",1596,244
+33,"X20022003","Victoria",1596,1116
+33,"X20032004","New South Wales",1596,101
+33,"X20032004","Queensland",1596,292
+33,"X20032004","Victoria",1596,9.3
+33,"X20042005","New South Wales",1596,97.1
+33,"X20042005","Queensland",1596,536
+33,"X20042005","Victoria",1596,1.6
+33,"X20052006","New South Wales",1596,190
+33,"X20052006","Queensland",1596,313
+33,"X20052006","Victoria",1596,9.5
+33,"X20062007","New South Wales",1596,196
+33,"X20062007","Queensland",1596,376
+33,"X20062007","Victoria",1596,5.4
+33,"X20072008","New South Wales",1596,67.1
+33,"X20072008","Queensland",1596,22.2
+33,"X20072008","Victoria",1596,2.5
+33,"X20082009","New South Wales",1596,43.4
+33,"X20082009","Queensland",1596,126.1
+33,"X20082009","Victoria",1596,1152
+33,"X20092010","New South Wales",1596,33.1
+33,"X20092010","Queensland",1596,154
+33,"X20092010","Victoria",1596,4.5
+33,"X20102011","New South Wales",1596,45
+33,"X20102011","Queensland",1596,173
+33,"X20102011","Victoria",1596,3.5
+33,"X20112012","New South Wales",1596,54
+33,"X20112012","Queensland",1596,372
+33,"X20112012","Victoria",1596,1.6
+33,"X20122013","New South Wales",1596,136
+33,"X20122013","Queensland",1596,277
+33,"X20122013","Victoria",1596,282
+33,"X20132014","New South Wales",1596,89.2
+33,"X20132014","Queensland",1596,216
+33,"X20132014","Victoria",1596,580
+33,"X20142015","New South Wales",1596,103
+33,"X20142015","Queensland",1596,128
+33,"X20142015","Victoria",1596,11.3
+33,"X20152016","New South Wales",1596,170
+33,"X20152016","Queensland",1596,239
+33,"X20152016","Victoria",1596,9.5
+33,"X20162017","New South Wales",1596,456
+33,"X20162017","Queensland",1596,271
+33,"X20162017","Victoria",1596,0.7
+33,"X20172018","New South Wales",1596,490
+33,"X20172018","Queensland",1596,386
+33,"X20172018","Victoria",1596,4.4
+33,"X20182019","New South Wales",1596,720
+33,"X20182019","Queensland",1596,1204
+33,"X20182019","Victoria",1596,30.3
+33,"X20192020","New South Wales",1596,NA
+33,"X20192020","Queensland",1596,NA
+33,"X20192020","Victoria",1596,NA
+34,"X20022003","New South Wales",1645,36.2
+34,"X20022003","Queensland",1645,340
+34,"X20022003","Victoria",1645,486.2
+34,"X20032004","New South Wales",1645,91
+34,"X20032004","Queensland",1645,135
+34,"X20032004","Victoria",1645,6.5
+34,"X20042005","New South Wales",1645,140.1
+34,"X20042005","Queensland",1645,554
+34,"X20042005","Victoria",1645,18.1
+34,"X20052006","New South Wales",1645,122
+34,"X20052006","Queensland",1645,373
+34,"X20052006","Victoria",1645,9.3
+34,"X20062007","New South Wales",1645,53
+34,"X20062007","Queensland",1645,241
+34,"X20062007","Victoria",1645,8.3
+34,"X20072008","New South Wales",1645,115
+34,"X20072008","Queensland",1645,101
+34,"X20072008","Victoria",1645,4.6
+34,"X20082009","New South Wales",1645,7.2
+34,"X20082009","Queensland",1645,156
+34,"X20082009","Victoria",1645,450
+34,"X20092010","New South Wales",1645,40.1
+34,"X20092010","Queensland",1645,69.1
+34,"X20092010","Victoria",1645,7.4
+34,"X20102011","New South Wales",1645,112
+34,"X20102011","Queensland",1645,447
+34,"X20102011","Victoria",1645,17.3
+34,"X20112012","New South Wales",1645,97
+34,"X20112012","Queensland",1645,1241
+34,"X20112012","Victoria",1645,32.2
+34,"X20122013","New South Wales",1645,92
+34,"X20122013","Queensland",1645,188
+34,"X20122013","Victoria",1645,763
+34,"X20132014","New South Wales",1645,35
+34,"X20132014","Queensland",1645,60
+34,"X20132014","Victoria",1645,580
+34,"X20142015","New South Wales",1645,73
+34,"X20142015","Queensland",1645,107
+34,"X20142015","Victoria",1645,23.4
+34,"X20152016","New South Wales",1645,143
+34,"X20152016","Queensland",1645,171
+34,"X20152016","Victoria",1645,1.6
+34,"X20162017","New South Wales",1645,188
+34,"X20162017","Queensland",1645,249
+34,"X20162017","Victoria",1645,11.4
+34,"X20172018","New South Wales",1645,154
+34,"X20172018","Queensland",1645,196
+34,"X20172018","Victoria",1645,0.7
+34,"X20182019","New South Wales",1645,259
+34,"X20182019","Queensland",1645,969
+34,"X20182019","Victoria",1645,35.4
+34,"X20192020","New South Wales",1645,NA
+34,"X20192020","Queensland",1645,NA
+34,"X20192020","Victoria",1645,NA
+35,"X20022003","New South Wales",1694,121
+35,"X20022003","Queensland",1694,122
+35,"X20022003","Victoria",1694,84.3
+35,"X20032004","New South Wales",1694,148
+35,"X20032004","Queensland",1694,171
+35,"X20032004","Victoria",1694,24.2
+35,"X20042005","New South Wales",1694,216
+35,"X20042005","Queensland",1694,782
+35,"X20042005","Victoria",1694,37.3
+35,"X20052006","New South Wales",1694,59
+35,"X20052006","Queensland",1694,240
+35,"X20052006","Victoria",1694,11.2
+35,"X20062007","New South Wales",1694,25
+35,"X20062007","Queensland",1694,408
+35,"X20062007","Victoria",1694,0.7
+35,"X20072008","New South Wales",1694,47
+35,"X20072008","Queensland",1694,47.2
+35,"X20072008","Victoria",1694,11.4
+35,"X20082009","New South Wales",1694,67
+35,"X20082009","Queensland",1694,160
+35,"X20082009","Victoria",1694,433
+35,"X20092010","New South Wales",1694,39.2
+35,"X20092010","Queensland",1694,41.3
+35,"X20092010","Victoria",1694,69.1
+35,"X20102011","New South Wales",1694,164
+35,"X20102011","Queensland",1694,531
+35,"X20102011","Victoria",1694,104.2
+35,"X20112012","New South Wales",1694,121.2
+35,"X20112012","Queensland",1694,146.1
+35,"X20112012","Victoria",1694,16.5
+35,"X20122013","New South Wales",1694,11.2
+35,"X20122013","Queensland",1694,164
+35,"X20122013","Victoria",1694,77.4
+35,"X20132014","New South Wales",1694,71.2
+35,"X20132014","Queensland",1694,127
+35,"X20132014","Victoria",1694,293.1
+35,"X20142015","New South Wales",1694,163
+35,"X20142015","Queensland",1694,163
+35,"X20142015","Victoria",1694,44.1
+35,"X20152016","New South Wales",1694,170
+35,"X20152016","Queensland",1694,202
+35,"X20152016","Victoria",1694,0.7
+35,"X20162017","New South Wales",1694,177
+35,"X20162017","Queensland",1694,198
+35,"X20162017","Victoria",1694,9.2
+35,"X20172018","New South Wales",1694,124
+35,"X20172018","Queensland",1694,177
+35,"X20172018","Victoria",1694,25.2
+35,"X20182019","New South Wales",1694,137
+35,"X20182019","Queensland",1694,259
+35,"X20182019","Victoria",1694,457.1
+35,"X20192020","New South Wales",1694,NA
+35,"X20192020","Queensland",1694,NA
+35,"X20192020","Victoria",1694,NA
+36,"X20022003","New South Wales",1743,253
+36,"X20022003","Queensland",1743,517
+36,"X20022003","Victoria",1743,22.4
+36,"X20032004","New South Wales",1743,248.1
+36,"X20032004","Queensland",1743,147
+36,"X20032004","Victoria",1743,5.4
+36,"X20042005","New South Wales",1743,334
+36,"X20042005","Queensland",1743,556
+36,"X20042005","Victoria",1743,50.2
+36,"X20052006","New South Wales",1743,123
+36,"X20052006","Queensland",1743,146
+36,"X20052006","Victoria",1743,13.3
+36,"X20062007","New South Wales",1743,28.1
+36,"X20062007","Queensland",1743,253
+36,"X20062007","Victoria",1743,7.4
+36,"X20072008","New South Wales",1743,140
+36,"X20072008","Queensland",1743,135.1
+36,"X20072008","Victoria",1743,67.2
+36,"X20082009","New South Wales",1743,100
+36,"X20082009","Queensland",1743,266
+36,"X20082009","Victoria",1743,25.6
+36,"X20092010","New South Wales",1743,29
+36,"X20092010","Queensland",1743,19.2
+36,"X20092010","Victoria",1743,72.4
+36,"X20102011","New South Wales",1743,579
+36,"X20102011","Queensland",1743,35.2
+36,"X20102011","Victoria",1743,675
+36,"X20112012","New South Wales",1743,29.1
+36,"X20112012","Queensland",1743,109
+36,"X20112012","Victoria",1743,12.3
+36,"X20122013","New South Wales",1743,75.2
+36,"X20122013","Queensland",1743,79
+36,"X20122013","Victoria",1743,36.1
+36,"X20132014","New South Wales",1743,83
+36,"X20132014","Queensland",1743,269
+36,"X20132014","Victoria",1743,49.2
+36,"X20142015","New South Wales",1743,654
+36,"X20142015","Queensland",1743,156
+36,"X20142015","Victoria",1743,346
+36,"X20152016","New South Wales",1743,226
+36,"X20152016","Queensland",1743,122.1
+36,"X20152016","Victoria",1743,1.6
+36,"X20162017","New South Wales",1743,246
+36,"X20162017","Queensland",1743,102
+36,"X20162017","Victoria",1743,11.2
+36,"X20172018","New South Wales",1743,173
+36,"X20172018","Queensland",1743,33
+36,"X20172018","Victoria",1743,85
+36,"X20182019","New South Wales",1743,121
+36,"X20182019","Queensland",1743,304
+36,"X20182019","Victoria",1743,794
+36,"X20192020","New South Wales",1743,NA
+36,"X20192020","Queensland",1743,NA
+36,"X20192020","Victoria",1743,NA
+37,"X20022003","New South Wales",1792,235
+37,"X20022003","Queensland",1792,284
+37,"X20022003","Victoria",1792,16.2
+37,"X20032004","New South Wales",1792,179
+37,"X20032004","Queensland",1792,127
+37,"X20032004","Victoria",1792,140.1
+37,"X20042005","New South Wales",1792,470
+37,"X20042005","Queensland",1792,417
+37,"X20042005","Victoria",1792,427
+37,"X20052006","New South Wales",1792,187
+37,"X20052006","Queensland",1792,420
+37,"X20052006","Victoria",1792,21.4
+37,"X20062007","New South Wales",1792,133
+37,"X20062007","Queensland",1792,274
+37,"X20062007","Victoria",1792,15.4
+37,"X20072008","New South Wales",1792,252
+37,"X20072008","Queensland",1792,127
+37,"X20072008","Victoria",1792,120
+37,"X20082009","New South Wales",1792,48
+37,"X20082009","Queensland",1792,143
+37,"X20082009","Victoria",1792,2.6
+37,"X20092010","New South Wales",1792,121
+37,"X20092010","Queensland",1792,51
+37,"X20092010","Victoria",1792,351
+37,"X20102011","New South Wales",1792,188
+37,"X20102011","Queensland",1792,50
+37,"X20102011","Victoria",1792,324.1
+37,"X20112012","New South Wales",1792,143
+37,"X20112012","Queensland",1792,90
+37,"X20112012","Victoria",1792,210
+37,"X20122013","New South Wales",1792,274
+37,"X20122013","Queensland",1792,145
+37,"X20122013","Victoria",1792,11.4
+37,"X20132014","New South Wales",1792,240
+37,"X20132014","Queensland",1792,204
+37,"X20132014","Victoria",1792,26
+37,"X20142015","New South Wales",1792,526
+37,"X20142015","Queensland",1792,215
+37,"X20142015","Victoria",1792,338
+37,"X20152016","New South Wales",1792,163
+37,"X20152016","Queensland",1792,86
+37,"X20152016","Victoria",1792,5.5
+37,"X20162017","New South Wales",1792,352
+37,"X20162017","Queensland",1792,160
+37,"X20162017","Victoria",1792,72.1
+37,"X20172018","New South Wales",1792,253
+37,"X20172018","Queensland",1792,338
+37,"X20172018","Victoria",1792,126.1
+37,"X20182019","New South Wales",1792,250
+37,"X20182019","Queensland",1792,435
+37,"X20182019","Victoria",1792,306
+37,"X20192020","New South Wales",1792,NA
+37,"X20192020","Queensland",1792,NA
+37,"X20192020","Victoria",1792,NA
+38,"X20022003","New South Wales",1841,311
+38,"X20022003","Queensland",1841,266
+38,"X20022003","Victoria",1841,17.3
+38,"X20032004","New South Wales",1841,417
+38,"X20032004","Queensland",1841,121
+38,"X20032004","Victoria",1841,218.1
+38,"X20042005","New South Wales",1841,295
+38,"X20042005","Queensland",1841,233
+38,"X20042005","Victoria",1841,257.1
+38,"X20052006","New South Wales",1841,175
+38,"X20052006","Queensland",1841,103.1
+38,"X20052006","Victoria",1841,130
+38,"X20062007","New South Wales",1841,88
+38,"X20062007","Queensland",1841,238
+38,"X20062007","Victoria",1841,30.2
+38,"X20072008","New South Wales",1841,97
+38,"X20072008","Queensland",1841,71
+38,"X20072008","Victoria",1841,50
+38,"X20082009","New South Wales",1841,227
+38,"X20082009","Queensland",1841,259
+38,"X20082009","Victoria",1841,36.3
+38,"X20092010","New South Wales",1841,363
+38,"X20092010","Queensland",1841,81
+38,"X20092010","Victoria",1841,563
+38,"X20102011","New South Wales",1841,530
+38,"X20102011","Queensland",1841,40.2
+38,"X20102011","Victoria",1841,1002
+38,"X20112012","New South Wales",1841,172
+38,"X20112012","Queensland",1841,13.2
+38,"X20112012","Victoria",1841,170.1
+38,"X20122013","New South Wales",1841,214
+38,"X20122013","Queensland",1841,183
+38,"X20122013","Victoria",1841,13.5
+38,"X20132014","New South Wales",1841,395
+38,"X20132014","Queensland",1841,188
+38,"X20132014","Victoria",1841,77.1
+38,"X20142015","New South Wales",1841,292
+38,"X20142015","Queensland",1841,273
+38,"X20142015","Victoria",1841,241.1
+38,"X20152016","New South Wales",1841,555
+38,"X20152016","Queensland",1841,105
+38,"X20152016","Victoria",1841,167.3
+38,"X20162017","New South Wales",1841,227
+38,"X20162017","Queensland",1841,80
+38,"X20162017","Victoria",1841,61.3
+38,"X20172018","New South Wales",1841,322
+38,"X20172018","Queensland",1841,269
+38,"X20172018","Victoria",1841,86
+38,"X20182019","New South Wales",1841,165
+38,"X20182019","Queensland",1841,296
+38,"X20182019","Victoria",1841,125
+38,"X20192020","New South Wales",1841,NA
+38,"X20192020","Queensland",1841,NA
+38,"X20192020","Victoria",1841,NA
+39,"X20022003","New South Wales",1890,283
+39,"X20022003","Queensland",1890,162
+39,"X20022003","Victoria",1890,153
+39,"X20032004","New South Wales",1890,413
+39,"X20032004","Queensland",1890,339
+39,"X20032004","Victoria",1890,145.1
+39,"X20042005","New South Wales",1890,265
+39,"X20042005","Queensland",1890,362
+39,"X20042005","Victoria",1890,212
+39,"X20052006","New South Wales",1890,200
+39,"X20052006","Queensland",1890,276
+39,"X20052006","Victoria",1890,100.1
+39,"X20062007","New South Wales",1890,107
+39,"X20062007","Queensland",1890,211
+39,"X20062007","Victoria",1890,57.3
+39,"X20072008","New South Wales",1890,70
+39,"X20072008","Queensland",1890,81
+39,"X20072008","Victoria",1890,33.2
+39,"X20082009","New South Wales",1890,218
+39,"X20082009","Queensland",1890,339
+39,"X20082009","Victoria",1890,294
+39,"X20092010","New South Wales",1890,374
+39,"X20092010","Queensland",1890,103
+39,"X20092010","Victoria",1890,524.1
+39,"X20102011","New South Wales",1890,845
+39,"X20102011","Queensland",1890,116
+39,"X20102011","Victoria",1890,906
+39,"X20112012","New South Wales",1890,202
+39,"X20112012","Queensland",1890,147
+39,"X20112012","Victoria",1890,343.1
+39,"X20122013","New South Wales",1890,432
+39,"X20122013","Queensland",1890,209
+39,"X20122013","Victoria",1890,167.2
+39,"X20132014","New South Wales",1890,64.2
+39,"X20132014","Queensland",1890,98
+39,"X20132014","Victoria",1890,89
+39,"X20142015","New South Wales",1890,472
+39,"X20142015","Queensland",1890,232
+39,"X20142015","Victoria",1890,639
+39,"X20152016","New South Wales",1890,380
+39,"X20152016","Queensland",1890,99.1
+39,"X20152016","Victoria",1890,77.2
+39,"X20162017","New South Wales",1890,759
+39,"X20162017","Queensland",1890,151
+39,"X20162017","Victoria",1890,135.2
+39,"X20172018","New South Wales",1890,332
+39,"X20172018","Queensland",1890,180
+39,"X20172018","Victoria",1890,207.1
+39,"X20182019","New South Wales",1890,81
+39,"X20182019","Queensland",1890,87.1
+39,"X20182019","Victoria",1890,77.2
+39,"X20192020","New South Wales",1890,NA
+39,"X20192020","Queensland",1890,NA
+39,"X20192020","Victoria",1890,NA
+40,"X20022003","New South Wales",1939,220
+40,"X20022003","Queensland",1939,189
+40,"X20022003","Victoria",1939,167.1
+40,"X20032004","New South Wales",1939,531
+40,"X20032004","Queensland",1939,298
+40,"X20032004","Victoria",1939,248.1
+40,"X20042005","New South Wales",1939,525
+40,"X20042005","Queensland",1939,226
+40,"X20042005","Victoria",1939,662
+40,"X20052006","New South Wales",1939,457
+40,"X20052006","Queensland",1939,207.1
+40,"X20052006","Victoria",1939,43.2
+40,"X20062007","New South Wales",1939,253
+40,"X20062007","Queensland",1939,211
+40,"X20062007","Victoria",1939,208
+40,"X20072008","New South Wales",1939,372
+40,"X20072008","Queensland",1939,183
+40,"X20072008","Victoria",1939,125.1
+40,"X20082009","New South Wales",1939,113
+40,"X20082009","Queensland",1939,288
+40,"X20082009","Victoria",1939,353.2
+40,"X20092010","New South Wales",1939,228
+40,"X20092010","Queensland",1939,71
+40,"X20092010","Victoria",1939,565
+40,"X20102011","New South Wales",1939,1535
+40,"X20102011","Queensland",1939,116
+40,"X20102011","Victoria",1939,960
+40,"X20112012","New South Wales",1939,649
+40,"X20112012","Queensland",1939,157
+40,"X20112012","Victoria",1939,740
+40,"X20122013","New South Wales",1939,432
+40,"X20122013","Queensland",1939,126
+40,"X20122013","Victoria",1939,175.2
+40,"X20132014","New South Wales",1939,666
+40,"X20132014","Queensland",1939,140
+40,"X20132014","Victoria",1939,547
+40,"X20142015","New South Wales",1939,572
+40,"X20142015","Queensland",1939,47
+40,"X20142015","Victoria",1939,549
+40,"X20152016","New South Wales",1939,1255
+40,"X20152016","Queensland",1939,150
+40,"X20152016","Victoria",1939,630
+40,"X20162017","New South Wales",1939,1177
+40,"X20162017","Queensland",1939,184
+40,"X20162017","Victoria",1939,452.1
+40,"X20172018","New South Wales",1939,598
+40,"X20172018","Queensland",1939,123
+40,"X20172018","Victoria",1939,571.1
+40,"X20182019","New South Wales",1939,328
+40,"X20182019","Queensland",1939,222
+40,"X20182019","Victoria",1939,87.2
+40,"X20192020","New South Wales",1939,NA
+40,"X20192020","Queensland",1939,NA
+40,"X20192020","Victoria",1939,NA
+41,"X20022003","New South Wales",1988,366.1
+41,"X20022003","Queensland",1988,216
+41,"X20022003","Victoria",1988,172.2
+41,"X20032004","New South Wales",1988,437
+41,"X20032004","Queensland",1988,187
+41,"X20032004","Victoria",1988,566
+41,"X20042005","New South Wales",1988,518
+41,"X20042005","Queensland",1988,319
+41,"X20042005","Victoria",1988,592
+41,"X20052006","New South Wales",1988,799
+41,"X20052006","Queensland",1988,235
+41,"X20052006","Victoria",1988,270.1
+41,"X20062007","New South Wales",1988,396
+41,"X20062007","Queensland",1988,174
+41,"X20062007","Victoria",1988,558
+41,"X20072008","New South Wales",1988,212
+41,"X20072008","Queensland",1988,151
+41,"X20072008","Victoria",1988,535
+41,"X20082009","New South Wales",1988,167.1
+41,"X20082009","Queensland",1988,123.2
+41,"X20082009","Victoria",1988,196
+41,"X20092010","New South Wales",1988,181
+41,"X20092010","Queensland",1988,119
+41,"X20092010","Victoria",1988,124.1
+41,"X20102011","New South Wales",1988,830
+41,"X20102011","Queensland",1988,198
+41,"X20102011","Victoria",1988,877.1
+41,"X20112012","New South Wales",1988,490
+41,"X20112012","Queensland",1988,178
+41,"X20112012","Victoria",1988,291.1
+41,"X20122013","New South Wales",1988,694
+41,"X20122013","Queensland",1988,58
+41,"X20122013","Victoria",1988,752
+41,"X20132014","New South Wales",1988,232
+41,"X20132014","Queensland",1988,142
+41,"X20132014","Victoria",1988,26.3
+41,"X20142015","New South Wales",1988,499
+41,"X20142015","Queensland",1988,193
+41,"X20142015","Victoria",1988,473.1
+41,"X20152016","New South Wales",1988,1155
+41,"X20152016","Queensland",1988,280
+41,"X20152016","Victoria",1988,368
+41,"X20162017","New South Wales",1988,1092
+41,"X20162017","Queensland",1988,254
+41,"X20162017","Victoria",1988,493.1
+41,"X20172018","New South Wales",1988,850
+41,"X20172018","Queensland",1988,306
+41,"X20172018","Victoria",1988,382
+41,"X20182019","New South Wales",1988,393
+41,"X20182019","Queensland",1988,297
+41,"X20182019","Victoria",1988,386
+41,"X20192020","New South Wales",1988,NA
+41,"X20192020","Queensland",1988,NA
+41,"X20192020","Victoria",1988,NA
+42,"X20022003","New South Wales",2037,192
+42,"X20022003","Queensland",2037,128
+42,"X20022003","Victoria",2037,77
+42,"X20032004","New South Wales",2037,658
+42,"X20032004","Queensland",2037,226
+42,"X20032004","Victoria",2037,308.1
+42,"X20042005","New South Wales",2037,578
+42,"X20042005","Queensland",2037,509
+42,"X20042005","Victoria",2037,204
+42,"X20052006","New South Wales",2037,889
+42,"X20052006","Queensland",2037,194
+42,"X20052006","Victoria",2037,145.2
+42,"X20062007","New South Wales",2037,331
+42,"X20062007","Queensland",2037,237
+42,"X20062007","Victoria",2037,510
+42,"X20072008","New South Wales",2037,240
+42,"X20072008","Queensland",2037,199
+42,"X20072008","Victoria",2037,701
+42,"X20082009","New South Wales",2037,163
+42,"X20082009","Queensland",2037,99
+42,"X20082009","Victoria",2037,359
+42,"X20092010","New South Wales",2037,385
+42,"X20092010","Queensland",2037,73
+42,"X20092010","Victoria",2037,797
+42,"X20102011","New South Wales",2037,795
+42,"X20102011","Queensland",2037,95
+42,"X20102011","Victoria",2037,496.1
+42,"X20112012","New South Wales",2037,660
+42,"X20112012","Queensland",2037,127
+42,"X20112012","Victoria",2037,882
+42,"X20122013","New South Wales",2037,377
+42,"X20122013","Queensland",2037,108
+42,"X20122013","Victoria",2037,425
+42,"X20132014","New South Wales",2037,512
+42,"X20132014","Queensland",2037,171
+42,"X20132014","Victoria",2037,606
+42,"X20142015","New South Wales",2037,689
+42,"X20142015","Queensland",2037,179
+42,"X20142015","Victoria",2037,257.2
+42,"X20152016","New South Wales",2037,756
+42,"X20152016","Queensland",2037,116
+42,"X20152016","Victoria",2037,465
+42,"X20162017","New South Wales",2037,1302
+42,"X20162017","Queensland",2037,345
+42,"X20162017","Victoria",2037,1362
+42,"X20172018","New South Wales",2037,673
+42,"X20172018","Queensland",2037,146
+42,"X20172018","Victoria",2037,864.1
+42,"X20182019","New South Wales",2037,345
+42,"X20182019","Queensland",2037,292
+42,"X20182019","Victoria",2037,283
+42,"X20192020","New South Wales",2037,NA
+42,"X20192020","Queensland",2037,NA
+42,"X20192020","Victoria",2037,NA
+43,"X20022003","New South Wales",2086,282.1
+43,"X20022003","Queensland",2086,223
+43,"X20022003","Victoria",2086,358
+43,"X20032004","New South Wales",2086,896
+43,"X20032004","Queensland",2086,192
+43,"X20032004","Victoria",2086,376.1
+43,"X20042005","New South Wales",2086,558
+43,"X20042005","Queensland",2086,410
+43,"X20042005","Victoria",2086,591
+43,"X20052006","New South Wales",2086,1332
+43,"X20052006","Queensland",2086,406
+43,"X20052006","Victoria",2086,1544.1
+43,"X20062007","New South Wales",2086,130.1
+43,"X20062007","Queensland",2086,324
+43,"X20062007","Victoria",2086,190
+43,"X20072008","New South Wales",2086,236
+43,"X20072008","Queensland",2086,157
+43,"X20072008","Victoria",2086,1092.1
+43,"X20082009","New South Wales",2086,317
+43,"X20082009","Queensland",2086,364
+43,"X20082009","Victoria",2086,852.2
+43,"X20092010","New South Wales",2086,252
+43,"X20092010","Queensland",2086,116
+43,"X20092010","Victoria",2086,203.3
+43,"X20102011","New South Wales",2086,1013
+43,"X20102011","Queensland",2086,84
+43,"X20102011","Victoria",2086,635
+43,"X20112012","New South Wales",2086,154
+43,"X20112012","Queensland",2086,195
+43,"X20112012","Victoria",2086,81
+43,"X20122013","New South Wales",2086,467
+43,"X20122013","Queensland",2086,230
+43,"X20122013","Victoria",2086,281
+43,"X20132014","New South Wales",2086,629
+43,"X20132014","Queensland",2086,133
+43,"X20132014","Victoria",2086,517
+43,"X20142015","New South Wales",2086,289
+43,"X20142015","Queensland",2086,497
+43,"X20142015","Victoria",2086,314.2
+43,"X20152016","New South Wales",2086,887
+43,"X20152016","Queensland",2086,219
+43,"X20152016","Victoria",2086,311
+43,"X20162017","New South Wales",2086,566
+43,"X20162017","Queensland",2086,347
+43,"X20162017","Victoria",2086,156.1
+43,"X20172018","New South Wales",2086,625
+43,"X20172018","Queensland",2086,257
+43,"X20172018","Victoria",2086,561
+43,"X20182019","New South Wales",2086,172
+43,"X20182019","Queensland",2086,68
+43,"X20182019","Victoria",2086,242
+43,"X20192020","New South Wales",2086,NA
+43,"X20192020","Queensland",2086,NA
+43,"X20192020","Victoria",2086,NA
+44,"X20022003","New South Wales",2135,327
+44,"X20022003","Queensland",2135,239
+44,"X20022003","Victoria",2135,124
+44,"X20032004","New South Wales",2135,643
+44,"X20032004","Queensland",2135,98
+44,"X20032004","Victoria",2135,592.1
+44,"X20042005","New South Wales",2135,711
+44,"X20042005","Queensland",2135,394
+44,"X20042005","Victoria",2135,239
+44,"X20052006","New South Wales",2135,402
+44,"X20052006","Queensland",2135,284
+44,"X20052006","Victoria",2135,67.2
+44,"X20062007","New South Wales",2135,170
+44,"X20062007","Queensland",2135,336
+44,"X20062007","Victoria",2135,50.2
+44,"X20072008","New South Wales",2135,146
+44,"X20072008","Queensland",2135,266
+44,"X20072008","Victoria",2135,54
+44,"X20082009","New South Wales",2135,306
+44,"X20082009","Queensland",2135,487
+44,"X20082009","Victoria",2135,186
+44,"X20092010","New South Wales",2135,520
+44,"X20092010","Queensland",2135,118
+44,"X20092010","Victoria",2135,286
+44,"X20102011","New South Wales",2135,803
+44,"X20102011","Queensland",2135,152
+44,"X20102011","Victoria",2135,430.1
+44,"X20112012","New South Wales",2135,577
+44,"X20112012","Queensland",2135,33
+44,"X20112012","Victoria",2135,273
+44,"X20122013","New South Wales",2135,667
+44,"X20122013","Queensland",2135,231
+44,"X20122013","Victoria",2135,479
+44,"X20132014","New South Wales",2135,222
+44,"X20132014","Queensland",2135,123
+44,"X20132014","Victoria",2135,83.3
+44,"X20142015","New South Wales",2135,464
+44,"X20142015","Queensland",2135,289
+44,"X20142015","Victoria",2135,524
+44,"X20152016","New South Wales",2135,528
+44,"X20152016","Queensland",2135,81
+44,"X20152016","Victoria",2135,88
+44,"X20162017","New South Wales",2135,628
+44,"X20162017","Queensland",2135,287
+44,"X20162017","Victoria",2135,184
+44,"X20172018","New South Wales",2135,607
+44,"X20172018","Queensland",2135,243
+44,"X20172018","Victoria",2135,589
+44,"X20182019","New South Wales",2135,262
+44,"X20182019","Queensland",2135,74
+44,"X20182019","Victoria",2135,232
+44,"X20192020","New South Wales",2135,NA
+44,"X20192020","Queensland",2135,NA
+44,"X20192020","Victoria",2135,NA
+45,"X20022003","New South Wales",2184,355
+45,"X20022003","Queensland",2184,250
+45,"X20022003","Victoria",2184,436.1
+45,"X20032004","New South Wales",2184,1258
+45,"X20032004","Queensland",2184,153
+45,"X20032004","Victoria",2184,609
+45,"X20042005","New South Wales",2184,438
+45,"X20042005","Queensland",2184,269
+45,"X20042005","Victoria",2184,185
+45,"X20052006","New South Wales",2184,745
+45,"X20052006","Queensland",2184,411
+45,"X20052006","Victoria",2184,28.1
+45,"X20062007","New South Wales",2184,325
+45,"X20062007","Queensland",2184,341
+45,"X20062007","Victoria",2184,147
+45,"X20072008","New South Wales",2184,366
+45,"X20072008","Queensland",2184,376
+45,"X20072008","Victoria",2184,91
+45,"X20082009","New South Wales",2184,583
+45,"X20082009","Queensland",2184,239
+45,"X20082009","Victoria",2184,365
+45,"X20092010","New South Wales",2184,356
+45,"X20092010","Queensland",2184,221
+45,"X20092010","Victoria",2184,96
+45,"X20102011","New South Wales",2184,885
+45,"X20102011","Queensland",2184,223
+45,"X20102011","Victoria",2184,157.2
+45,"X20112012","New South Wales",2184,431
+45,"X20112012","Queensland",2184,195
+45,"X20112012","Victoria",2184,227.1
+45,"X20122013","New South Wales",2184,723
+45,"X20122013","Queensland",2184,87
+45,"X20122013","Victoria",2184,586
+45,"X20132014","New South Wales",2184,263
+45,"X20132014","Queensland",2184,137
+45,"X20132014","Victoria",2184,142.1
+45,"X20142015","New South Wales",2184,334
+45,"X20142015","Queensland",2184,960
+45,"X20142015","Victoria",2184,28.2
+45,"X20152016","New South Wales",2184,873.1
+45,"X20152016","Queensland",2184,178
+45,"X20152016","Victoria",2184,279.2
+45,"X20162017","New South Wales",2184,1304
+45,"X20162017","Queensland",2184,270
+45,"X20162017","Victoria",2184,787
+45,"X20172018","New South Wales",2184,771
+45,"X20172018","Queensland",2184,348
+45,"X20172018","Victoria",2184,395.1
+45,"X20182019","New South Wales",2184,361
+45,"X20182019","Queensland",2184,300
+45,"X20182019","Victoria",2184,231.2
+45,"X20192020","New South Wales",2184,NA
+45,"X20192020","Queensland",2184,NA
+45,"X20192020","Victoria",2184,NA
+46,"X20022003","New South Wales",2233,89
+46,"X20022003","Queensland",2233,247
+46,"X20022003","Victoria",2233,78
+46,"X20032004","New South Wales",2233,1113
+46,"X20032004","Queensland",2233,208
+46,"X20032004","Victoria",2233,794
+46,"X20042005","New South Wales",2233,532
+46,"X20042005","Queensland",2233,395
+46,"X20042005","Victoria",2233,214
+46,"X20052006","New South Wales",2233,1316
+46,"X20052006","Queensland",2233,243
+46,"X20052006","Victoria",2233,293
+46,"X20062007","New South Wales",2233,204
+46,"X20062007","Queensland",2233,201
+46,"X20062007","Victoria",2233,121.1
+46,"X20072008","New South Wales",2233,328
+46,"X20072008","Queensland",2233,297
+46,"X20072008","Victoria",2233,363.1
+46,"X20082009","New South Wales",2233,354
+46,"X20082009","Queensland",2233,323
+46,"X20082009","Victoria",2233,183
+46,"X20092010","New South Wales",2233,367
+46,"X20092010","Queensland",2233,231
+46,"X20092010","Victoria",2233,90
+46,"X20102011","New South Wales",2233,715
+46,"X20102011","Queensland",2233,363
+46,"X20102011","Victoria",2233,93.1
+46,"X20112012","New South Wales",2233,418
+46,"X20112012","Queensland",2233,356
+46,"X20112012","Victoria",2233,79.1
+46,"X20122013","New South Wales",2233,338
+46,"X20122013","Queensland",2233,95.1
+46,"X20122013","Victoria",2233,124.2
+46,"X20132014","New South Wales",2233,417
+46,"X20132014","Queensland",2233,206
+46,"X20132014","Victoria",2233,228.1
+46,"X20142015","New South Wales",2233,663
+46,"X20142015","Queensland",2233,937
+46,"X20142015","Victoria",2233,124
+46,"X20152016","New South Wales",2233,452
+46,"X20152016","Queensland",2233,510
+46,"X20152016","Victoria",2233,103
+46,"X20162017","New South Wales",2233,762
+46,"X20162017","Queensland",2233,539
+46,"X20162017","Victoria",2233,473
+46,"X20172018","New South Wales",2233,581
+46,"X20172018","Queensland",2233,666
+46,"X20172018","Victoria",2233,117.2
+46,"X20182019","New South Wales",2233,462
+46,"X20182019","Queensland",2233,199
+46,"X20182019","Victoria",2233,357
+46,"X20192020","New South Wales",2233,NA
+46,"X20192020","Queensland",2233,NA
+46,"X20192020","Victoria",2233,NA
+47,"X20022003","New South Wales",2282,255
+47,"X20022003","Queensland",2282,618
+47,"X20022003","Victoria",2282,38.1
+47,"X20032004","New South Wales",2282,922
+47,"X20032004","Queensland",2282,271
+47,"X20032004","Victoria",2282,319.1
+47,"X20042005","New South Wales",2282,539
+47,"X20042005","Queensland",2282,638
+47,"X20042005","Victoria",2282,200.1
+47,"X20052006","New South Wales",2282,710
+47,"X20052006","Queensland",2282,197
+47,"X20052006","Victoria",2282,162.1
+47,"X20062007","New South Wales",2282,184
+47,"X20062007","Queensland",2282,343
+47,"X20062007","Victoria",2282,48.1
+47,"X20072008","New South Wales",2282,278
+47,"X20072008","Queensland",2282,327
+47,"X20072008","Victoria",2282,60.1
+47,"X20082009","New South Wales",2282,139
+47,"X20082009","Queensland",2282,603
+47,"X20082009","Victoria",2282,300
+47,"X20092010","New South Wales",2282,220.1
+47,"X20092010","Queensland",2282,133
+47,"X20092010","Victoria",2282,159
+47,"X20102011","New South Wales",2282,696
+47,"X20102011","Queensland",2282,251
+47,"X20102011","Victoria",2282,107.3
+47,"X20112012","New South Wales",2282,623
+47,"X20112012","Queensland",2282,224.1
+47,"X20112012","Victoria",2282,89
+47,"X20122013","New South Wales",2282,330
+47,"X20122013","Queensland",2282,61
+47,"X20122013","Victoria",2282,121
+47,"X20132014","New South Wales",2282,381
+47,"X20132014","Queensland",2282,161
+47,"X20132014","Victoria",2282,100.3
+47,"X20142015","New South Wales",2282,87
+47,"X20142015","Queensland",2282,409
+47,"X20142015","Victoria",2282,50
+47,"X20152016","New South Wales",2282,872
+47,"X20152016","Queensland",2282,371
+47,"X20152016","Victoria",2282,36
+47,"X20162017","New South Wales",2282,194.2
+47,"X20162017","Queensland",2282,362
+47,"X20162017","Victoria",2282,91.2
+47,"X20172018","New South Wales",2282,647
+47,"X20172018","Queensland",2282,426
+47,"X20172018","Victoria",2282,169.1
+47,"X20182019","New South Wales",2282,347
+47,"X20182019","Queensland",2282,237
+47,"X20182019","Victoria",2282,255
+47,"X20192020","New South Wales",2282,NA
+47,"X20192020","Queensland",2282,NA
+47,"X20192020","Victoria",2282,NA
+48,"X20022003","New South Wales",2331,409
+48,"X20022003","Queensland",2331,405
+48,"X20022003","Victoria",2331,98.1
+48,"X20032004","New South Wales",2331,922.1
+48,"X20032004","Queensland",2331,320
+48,"X20032004","Victoria",2331,233.1
+48,"X20042005","New South Wales",2331,648
+48,"X20042005","Queensland",2331,676
+48,"X20042005","Victoria",2331,66.2
+48,"X20052006","New South Wales",2331,752
+48,"X20052006","Queensland",2331,399
+48,"X20052006","Victoria",2331,77
+48,"X20062007","New South Wales",2331,189
+48,"X20062007","Queensland",2331,266
+48,"X20062007","Victoria",2331,37.1
+48,"X20072008","New South Wales",2331,189
+48,"X20072008","Queensland",2331,168
+48,"X20072008","Victoria",2331,46.2
+48,"X20082009","New South Wales",2331,130
+48,"X20082009","Queensland",2331,295
+48,"X20082009","Victoria",2331,78
+48,"X20092010","New South Wales",2331,32.2
+48,"X20092010","Queensland",2331,136
+48,"X20092010","Victoria",2331,5.6
+48,"X20102011","New South Wales",2331,431
+48,"X20102011","Queensland",2331,713
+48,"X20102011","Victoria",2331,82.2
+48,"X20112012","New South Wales",2331,157
+48,"X20112012","Queensland",2331,60.2
+48,"X20112012","Victoria",2331,40.2
+48,"X20122013","New South Wales",2331,283
+48,"X20122013","Queensland",2331,104
+48,"X20122013","Victoria",2331,78.1
+48,"X20132014","New South Wales",2331,96
+48,"X20132014","Queensland",2331,221
+48,"X20132014","Victoria",2331,7.5
+48,"X20142015","New South Wales",2331,66
+48,"X20142015","Queensland",2331,370
+48,"X20142015","Victoria",2331,33.3
+48,"X20152016","New South Wales",2331,346
+48,"X20152016","Queensland",2331,242
+48,"X20152016","Victoria",2331,53.2
+48,"X20162017","New South Wales",2331,318
+48,"X20162017","Queensland",2331,792
+48,"X20162017","Victoria",2331,19.2
+48,"X20172018","New South Wales",2331,298
+48,"X20172018","Queensland",2331,564
+48,"X20172018","Victoria",2331,101
+48,"X20182019","New South Wales",2331,530
+48,"X20182019","Queensland",2331,419
+48,"X20182019","Victoria",2331,18
+48,"X20192020","New South Wales",2331,NA
+48,"X20192020","Queensland",2331,NA
+48,"X20192020","Victoria",2331,NA
+49,"X20022003","New South Wales",2380,182
+49,"X20022003","Queensland",2380,571
+49,"X20022003","Victoria",2380,26.3
+49,"X20032004","New South Wales",2380,667.1
+49,"X20032004","Queensland",2380,252
+49,"X20032004","Victoria",2380,87.2
+49,"X20042005","New South Wales",2380,679
+49,"X20042005","Queensland",2380,458
+49,"X20042005","Victoria",2380,127
+49,"X20052006","New South Wales",2380,616
+49,"X20052006","Queensland",2380,380
+49,"X20052006","Victoria",2380,27.3
+49,"X20062007","New South Wales",2380,71
+49,"X20062007","Queensland",2380,175
+49,"X20062007","Victoria",2380,5.5
+49,"X20072008","New South Wales",2380,75.1
+49,"X20072008","Queensland",2380,131
+49,"X20072008","Victoria",2380,26.3
+49,"X20082009","New South Wales",2380,25.2
+49,"X20082009","Queensland",2380,390
+49,"X20082009","Victoria",2380,2.6
+49,"X20092010","New South Wales",2380,70
+49,"X20092010","Queensland",2380,514
+49,"X20092010","Victoria",2380,43.3
+49,"X20102011","New South Wales",2380,324
+49,"X20102011","Queensland",2380,873
+49,"X20102011","Victoria",2380,93.3
+49,"X20112012","New South Wales",2380,51.2
+49,"X20112012","Queensland",2380,263
+49,"X20112012","Victoria",2380,12.4
+49,"X20122013","New South Wales",2380,24.2
+49,"X20122013","Queensland",2380,247
+49,"X20122013","Victoria",2380,1.6
+49,"X20132014","New South Wales",2380,57.1
+49,"X20132014","Queensland",2380,243
+49,"X20132014","Victoria",2380,7.3
+49,"X20142015","New South Wales",2380,196
+49,"X20142015","Queensland",2380,681
+49,"X20142015","Victoria",2380,15.1
+49,"X20152016","New South Wales",2380,43.4
+49,"X20152016","Queensland",2380,394
+49,"X20152016","Victoria",2380,34.4
+49,"X20162017","New South Wales",2380,445
+49,"X20162017","Queensland",2380,862
+49,"X20162017","Victoria",2380,112.1
+49,"X20172018","New South Wales",2380,313
+49,"X20172018","Queensland",2380,1025
+49,"X20172018","Victoria",2380,78.1
+49,"X20182019","New South Wales",2380,215
+49,"X20182019","Queensland",2380,259
+49,"X20182019","Victoria",2380,25.2
+49,"X20192020","New South Wales",2380,NA
+49,"X20192020","Queensland",2380,NA
+49,"X20192020","Victoria",2380,NA
+50,"X20022003","New South Wales",2429,215
+50,"X20022003","Queensland",2429,458
+50,"X20022003","Victoria",2429,7.4
+50,"X20032004","New South Wales",2429,298
+50,"X20032004","Queensland",2429,512
+50,"X20032004","Victoria",2429,70.2
+50,"X20042005","New South Wales",2429,150.1
+50,"X20042005","Queensland",2429,286
+50,"X20042005","Victoria",2429,62.1
+50,"X20052006","New South Wales",2429,404.1
+50,"X20052006","Queensland",2429,179
+50,"X20052006","Victoria",2429,33
+50,"X20062007","New South Wales",2429,33
+50,"X20062007","Queensland",2429,343
+50,"X20062007","Victoria",2429,8.6
+50,"X20072008","New South Wales",2429,31.2
+50,"X20072008","Queensland",2429,273
+50,"X20072008","Victoria",2429,6.3
+50,"X20082009","New South Wales",2429,37
+50,"X20082009","Queensland",2429,646
+50,"X20082009","Victoria",2429,5.4
+50,"X20092010","New South Wales",2429,83
+50,"X20092010","Queensland",2429,359
+50,"X20092010","Victoria",2429,9.4
+50,"X20102011","New South Wales",2429,221
+50,"X20102011","Queensland",2429,700
+50,"X20102011","Victoria",2429,68.1
+50,"X20112012","New South Wales",2429,102
+50,"X20112012","Queensland",2429,552
+50,"X20112012","Victoria",2429,24.4
+50,"X20122013","New South Wales",2429,66.1
+50,"X20122013","Queensland",2429,163
+50,"X20122013","Victoria",2429,19.4
+50,"X20132014","New South Wales",2429,98.2
+50,"X20132014","Queensland",2429,138
+50,"X20132014","Victoria",2429,6.5
+50,"X20142015","New South Wales",2429,210
+50,"X20142015","Queensland",2429,133
+50,"X20142015","Victoria",2429,15.3
+50,"X20152016","New South Wales",2429,62
+50,"X20152016","Queensland",2429,458
+50,"X20152016","Victoria",2429,5.6
+50,"X20162017","New South Wales",2429,296
+50,"X20162017","Queensland",2429,685
+50,"X20162017","Victoria",2429,34.2
+50,"X20172018","New South Wales",2429,180
+50,"X20172018","Queensland",2429,765
+50,"X20172018","Victoria",2429,7.3
+50,"X20182019","New South Wales",2429,230
+50,"X20182019","Queensland",2429,511
+50,"X20182019","Victoria",2429,38.1
+50,"X20192020","New South Wales",2429,NA
+50,"X20192020","Queensland",2429,NA
+50,"X20192020","Victoria",2429,NA
+51,"X20022003","New South Wales",2478,158
+51,"X20022003","Queensland",2478,408
+51,"X20022003","Victoria",2478,1.6
+51,"X20032004","New South Wales",2478,152
+51,"X20032004","Queensland",2478,910
+51,"X20032004","Victoria",2478,4.5
+51,"X20042005","New South Wales",2478,102.2
+51,"X20042005","Queensland",2478,293
+51,"X20042005","Victoria",2478,22.2
+51,"X20052006","New South Wales",2478,848
+51,"X20052006","Queensland",2478,134
+51,"X20052006","Victoria",2478,35.2
+51,"X20062007","New South Wales",2478,33
+51,"X20062007","Queensland",2478,137.1
+51,"X20062007","Victoria",2478,2.5
+51,"X20072008","New South Wales",2478,59
+51,"X20072008","Queensland",2478,215
+51,"X20072008","Victoria",2478,22.3
+51,"X20082009","New South Wales",2478,78
+51,"X20082009","Queensland",2478,707
+51,"X20082009","Victoria",2478,19.3
+51,"X20092010","New South Wales",2478,60.1
+51,"X20092010","Queensland",2478,452
+51,"X20092010","Victoria",2478,9.3
+51,"X20102011","New South Wales",2478,140
+51,"X20102011","Queensland",2478,1386
+51,"X20102011","Victoria",2478,10.4
+51,"X20112012","New South Wales",2478,86
+51,"X20112012","Queensland",2478,817
+51,"X20112012","Victoria",2478,14.2
+51,"X20122013","New South Wales",2478,75
+51,"X20122013","Queensland",2478,149
+51,"X20122013","Victoria",2478,15.3
+51,"X20132014","New South Wales",2478,64
+51,"X20132014","Queensland",2478,190
+51,"X20132014","Victoria",2478,5.3
+51,"X20142015","New South Wales",2478,6.3
+51,"X20142015","Queensland",2478,239
+51,"X20142015","Victoria",2478,4.6
+51,"X20152016","New South Wales",2478,85.3
+51,"X20152016","Queensland",2478,154
+51,"X20152016","Victoria",2478,10.6
+51,"X20162017","New South Wales",2478,243
+51,"X20162017","Queensland",2478,774
+51,"X20162017","Victoria",2478,39.1
+51,"X20172018","New South Wales",2478,238
+51,"X20172018","Queensland",2478,803
+51,"X20172018","Victoria",2478,21.3
+51,"X20182019","New South Wales",2478,332
+51,"X20182019","Queensland",2478,898
+51,"X20182019","Victoria",2478,23.2
+51,"X20192020","New South Wales",2478,NA
+51,"X20192020","Queensland",2478,NA
+51,"X20192020","Victoria",2478,NA
+52,"X20022003","New South Wales",2527,86
+52,"X20022003","Queensland",2527,373
+52,"X20022003","Victoria",2527,3.6
+52,"X20032004","New South Wales",2527,302
+52,"X20032004","Queensland",2527,671
+52,"X20032004","Victoria",2527,21.3
+52,"X20042005","New South Wales",2527,128.1
+52,"X20042005","Queensland",2527,121
+52,"X20042005","Victoria",2527,44.2
+52,"X20052006","New South Wales",2527,351.1
+52,"X20052006","Queensland",2527,229
+52,"X20052006","Victoria",2527,11.2
+52,"X20062007","New South Wales",2527,30
+52,"X20062007","Queensland",2527,159.1
+52,"X20062007","Victoria",2527,4.3
+52,"X20072008","New South Wales",2527,67
+52,"X20072008","Queensland",2527,454
+52,"X20072008","Victoria",2527,5.4
+52,"X20082009","New South Wales",2527,54
+52,"X20082009","Queensland",2527,326
+52,"X20082009","Victoria",2527,12.2
+52,"X20092010","New South Wales",2527,58
+52,"X20092010","Queensland",2527,348
+52,"X20092010","Victoria",2527,3.5
+52,"X20102011","New South Wales",2527,232
+52,"X20102011","Queensland",2527,1115
+52,"X20102011","Victoria",2527,23.2
+52,"X20112012","New South Wales",2527,67
+52,"X20112012","Queensland",2527,510
+52,"X20112012","Victoria",2527,2.6
+52,"X20122013","New South Wales",2527,32.1
+52,"X20122013","Queensland",2527,402
+52,"X20122013","Victoria",2527,41
+52,"X20132014","New South Wales",2527,99
+52,"X20132014","Queensland",2527,547
+52,"X20132014","Victoria",2527,4.5
+52,"X20142015","New South Wales",2527,34.2
+52,"X20142015","Queensland",2527,295
+52,"X20142015","Victoria",2527,5.5
+52,"X20152016","New South Wales",2527,23.4
+52,"X20152016","Queensland",2527,225
+52,"X20152016","Victoria",2527,11.3
+52,"X20162017","New South Wales",2527,208
+52,"X20162017","Queensland",2527,830
+52,"X20162017","Victoria",2527,10.3
+52,"X20172018","New South Wales",2527,201
+52,"X20172018","Queensland",2527,699
+52,"X20172018","Victoria",2527,16.3
+52,"X20182019","New South Wales",2527,313
+52,"X20182019","Queensland",2527,695
+52,"X20182019","Victoria",2527,51.2
+52,"X20192020","New South Wales",2527,NA
+52,"X20192020","Queensland",2527,NA
+52,"X20192020","Victoria",2527,NA
