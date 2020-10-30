@@ -1,0 +1,51 @@
+{
+  "width": 800,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/fires_week.csv"},
+  "transform": [
+    {"filter": "datum.State == state_selection || (state_selection == null && datum.State == 'New South Wales')"}
+  ],
+  "params": [
+    {
+      "name": "state_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          "New South Wales",
+          "Queensland",
+          "Victoria"
+        ],
+        "labels": [
+          "New South Wales",
+          "Queensland",
+          "Victoria"
+        ],
+        "name": "State Selection:"
+      }
+    }
+  ],
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "field": "Week",
+      "type": "ordinal",
+      "sort": {},
+      "axis": {
+      }
+    },
+    "y": {
+      "field": "Season",
+      "type": "nominal"
+    },
+    "color": {
+      "field": "Count",
+      "type": "quantitative",
+      "scale": {
+        "type": "pow",
+        "exponent": 0.15,
+        "scheme": "yelloworangered",
+        "range": ["#fcfcc6", "#fceaa8", "#fcd88a", "#fbac73", "#f27260", "#cb4761", "#993649"]
+      }
+    }
+  }
+}

@@ -3,12 +3,76 @@
   "width": 500,
   "height": 300,
   "data": {
-    "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/NSW_STATE_POLYGON.json",
-    "format": {"type": "topojson", "feature": "NSW_STATE_POLYGON_shp"}
+    "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/map_aqi.csv"
   },
   "transform": [
+    {
+      "filter": "datum.DateNum == day"
+    },
+    {
+      "lookup" : "name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/stations3.csv"
+        },
+        "key": "STATION",
+        "fields": ["ID"]
+      }
+    },
+    {"filter": "datum.ID != 23 && datum.ID != 28 && datum.ID != 30"},
+    {
+      "lookup": "ID",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/map.topojson",
+          "format": {"type": "topojson", "feature": "collection"}
+        },
+        "key": "properties.id"
+      },
+      "as": "geo"
+    }
+  ],
+  "params": [
+    {
+      "name": "day",
+      "value": 158,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 223,
+        "step": 1,
+        "name": "Day: "
+      }
+    }
   ],
   "projection": {"type": "equirectangular"},
   "mark": {"type": "geoshape"},
-  "encoding": {}
+  "encoding": {
+    "shape": {
+      "field": "geo",
+      "type": "geojson"
+    },
+    "color": {
+      "field": "value",
+      "type": "quantitative",
+      "condition": {
+        "test": "datum.value == -1",
+        "value": "#aaa"
+      },
+      "scale": {
+        "type": "threshold",
+        "domain": [0, 33, 66, 99, 150, 199, 200],
+        "range": [
+          "#aaaaaa",
+          "#fcfcc6",
+          "#fceaa8",
+          "#fcd88a",
+          "#fbac73",
+          "#f27260",
+          "#cb4761"
+        ]
+      }
+    }
+  }
 }
+
