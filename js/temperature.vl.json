@@ -71,7 +71,7 @@
         "color": {
           "field": "sign",
           "type": "nominal",
-          "scale": {"domain": [-1, 1], "range": ["#1770ab", "#c30d24"]}
+          "scale": {"domain": [-1, 1], "range": ["#4862cb", "#CB4761"]}
         },
         "tooltip": [
           {"field": "Year", "type": "ordinal"},

@@ -5,6 +5,9 @@
   "transform": [
     {"filter": "datum.State == state_selection || (state_selection == null && datum.State == 'New South Wales')"}
   ],
+  "selection": {
+    "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+  },
   "params": [
     {
       "name": "state_selection",
@@ -46,6 +49,15 @@
         "scheme": "yelloworangered",
         "range": ["#fcfcc6", "#fceaa8", "#fcd88a", "#fbac73", "#f27260", "#cb4761", "#993649"]
       }
+    },
+    "tooltip": [
+      {"field": "Season", "type": "ordinal"},
+      {"field": "Week", "type": "quantitative"},
+      {"field": "Count", "type": "quantitative"}
+    ],
+    "stroke": {
+      "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
+      "value": null
     }
   }
 }

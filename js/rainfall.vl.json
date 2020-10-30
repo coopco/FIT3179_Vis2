@@ -62,7 +62,7 @@
     "color": {
       "field": "sign",
       "type": "nominal",
-      "scale": {"domain": [-1, 1], "range": ["#c30d24", "#1770ab"]}
+      "scale": {"domain": [-1, 1], "range": ["#CB4761", "#4862CB"]}
     },
     "tooltip": [
       {"field": "Year", "type": "ordinal"},
