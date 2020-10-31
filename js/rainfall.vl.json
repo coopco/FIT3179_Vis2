@@ -1,6 +1,6 @@
 {
-  "width": 1000,
   "height": 350,
+  "width": "container",
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/rains.csv"
@@ -17,7 +17,7 @@
       "name": "state_selection",
       "bind": {
         "input": "select",
-        "name": "State selection:",
+        "name": "State selection: ",
         "options": [
           "Australia",
           "New South Wales",
@@ -62,7 +62,7 @@
     "color": {
       "field": "sign",
       "type": "nominal",
-      "scale": {"domain": [-1, 1], "range": ["#CB4761", "#4862CB"]}
+      "scale": {"domain": [-1, 1], "range": ["#CB4761", "#426680"]}
     },
     "tooltip": [
       {"field": "Year", "type": "ordinal"},

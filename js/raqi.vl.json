@@ -1,5 +1,5 @@
 {
-  "width": 800,
+  "width": "container",
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/raqi2.csv"},
   "transform": [
@@ -17,7 +17,7 @@
       "name": "region_selection",
       "bind": {
         "input": "select",
-        "name": "Region selection:",
+        "name": "Region selection: ",
         "options": [
           "Mean",
           "Sydney central east",

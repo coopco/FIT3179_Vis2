@@ -1,6 +1,6 @@
 {
-  "width": 800,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": "container",
   "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/fires_week.csv"},
   "transform": [
     {"filter": "datum.State == state_selection || (state_selection == null && datum.State == 'New South Wales')"}
@@ -23,7 +23,7 @@
           "Queensland",
           "Victoria"
         ],
-        "name": "State Selection:"
+        "name": "State Selection: "
       }
     }
   ],
@@ -35,6 +35,10 @@
       "sort": {},
       "title": "Date",
       "axis": {
+        "minExtent": 10,
+        "domain": false,
+        "labelOverlap": true,
+        "labelSeparation": 10
       }
     },
     "y": {

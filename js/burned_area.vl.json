@@ -1,12 +1,40 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/burn.csv"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/burn.csv"
+  },
   "mark": "bar",
   "transform": [
-      {"filter": "datum.State != 'Total'"}
+    {"filter": "datum.State != 'Total'"},
+    {"calculate": "datum['Proportion forest burned']/100", "as": "Proportion"}
   ],
+  "selection": {
+    "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+  },
   "encoding": {
-    "y": {"field": "State", "type": "nominal", "axis": {"labelAngle": 0}},
-    "x": {"field": "Proportion forest burned", "type": "quantitative"}
+    "y": {
+      "field": "State",
+      "type": "nominal",
+      "sort": {"field": "Proportion", "order": "descending"},
+      "axis": {"labelAngle": 0}
+    },
+    "x": {"field": "Proportion forest burned", "type": "quantitative"},
+    "color": {"value": "#cb4761"},
+    "stroke": {
+          "condition": {
+            "test": {
+              "and": [
+                {"selection": "highlight"},
+                "length(data(\"highlight_store\"))"
+              ]
+            },
+            "value": "black"
+          },
+          "value": null
+    },
+    "tooltip": [
+      {"field": "State"},
+      {"field": "Proportion", "title": "Porportion", "format": ".1%"}
+    ]
   }
 }

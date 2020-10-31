@@ -1,6 +1,6 @@
 {
-  "width": 1000,
   "height": 350,
+  "width": "container",
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/temperatures.csv"
@@ -17,7 +17,7 @@
       "name": "state_selection",
       "bind": {
         "input": "select",
-        "name": "State selection:",
+        "name": "State selection: ",
         "options": [
           "Australia",
           "New South Wales",
@@ -74,7 +74,7 @@
         "color": {
           "field": "sign",
           "type": "nominal",
-          "scale": {"domain": [-1, 1], "range": ["#4862cb", "#CB4761"]}
+          "scale": {"domain": [-1, 1], "range": ["#426680", "#CB4761"]}
         },
         "tooltip": [
           {"field": "Year", "type": "ordinal"},
@@ -84,18 +84,6 @@
         "stroke": {
           "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
           "value": null
-        }
-      }
-    },
-    {
-      "mark": {
-        "type": "line",
-        "stroke": "#444"
-      },
-      "encoding": {
-        "y": {
-          "field": "Global",
-          "type": "quantitative"
         }
       }
     }

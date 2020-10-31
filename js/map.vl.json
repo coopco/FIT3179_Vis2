@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 400,
+  "width": "container",
   "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/map_aqi.csv"
@@ -42,7 +42,7 @@
         "min": 0,
         "max": 223,
         "step": 1,
-        "name": "Day:"
+        "name": " "
       }
     }
   ],
@@ -51,7 +51,7 @@
     {
       "mark": {"type": "geoshape", "strokeWidth": 2},
       "selection": {
-      "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+        "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
       },
       "encoding": {
         "shape": {
@@ -92,16 +92,8 @@
       "mark": {"type": "text", "align": "center"},
       "encoding": {
         "text": {"field": "Date", "timeUnit": "yearmonthdate"},
-        "x": {"value": 178},
+        "x": {"value": 90},
         "y": {"value": 420}
-      }
-    },
-    {
-      "mark": {"type": "text"},
-      "encoding": {
-        "text": {"value": "NA"},
-        "x": {"value": 444},
-        "y": {"value": 217}
       }
     }
   ]
