@@ -1,4 +1,5 @@
 {
+  "title": "Proportion of forest burned",
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/burn.csv"
@@ -18,7 +19,7 @@
       "sort": {"field": "Proportion", "order": "descending"},
       "axis": {"labelAngle": 0}
     },
-    "x": {"field": "Proportion forest burned", "type": "quantitative"},
+    "x": {"field": "Proportion", "type": "quantitative"},
     "color": {"value": "#cb4761"},
     "stroke": {
           "condition": {

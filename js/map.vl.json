@@ -83,8 +83,7 @@
           {"field": "value", "title": "AQI"}
         ],
         "stroke": {
-          "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
-          "value": null
+          "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"}
         }
       }
     },
