@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 500,
-  "height": 300,
+  "width": 400,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/map_aqi.csv"
   },
@@ -30,7 +30,8 @@
         "key": "properties.id"
       },
       "as": "geo"
-    }
+    },
+    {"calculate": "datum.DateNum + 200", "as": "pos"}
   ],
   "params": [
     {
@@ -41,38 +42,67 @@
         "min": 0,
         "max": 223,
         "step": 1,
-        "name": "Day: "
+        "name": "Day:"
       }
     }
   ],
   "projection": {"type": "equirectangular"},
-  "mark": {"type": "geoshape"},
-  "encoding": {
-    "shape": {
-      "field": "geo",
-      "type": "geojson"
-    },
-    "color": {
-      "field": "value",
-      "type": "quantitative",
-      "condition": {
-        "test": "datum.value == -1",
-        "value": "#aaa"
+  "layer": [
+    {
+      "mark": {"type": "geoshape", "strokeWidth": 2},
+      "selection": {
+      "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
       },
-      "scale": {
-        "type": "threshold",
-        "domain": [0, 33, 66, 99, 150, 199, 200],
-        "range": [
-          "#aaaaaa",
-          "#fcfcc6",
-          "#fceaa8",
-          "#fcd88a",
-          "#fbac73",
-          "#f27260",
-          "#cb4761"
-        ]
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "value",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 33, 66, 99, 150, 200],
+            "range": [
+              "#aaaaaa",
+              "#fcfcc6",
+              "#fceaa8",
+              "#fcd88a",
+              "#fbac73",
+              "#f27260",
+              "#cb4761"
+            ]
+          },
+          "legend": {
+            "title": "Air Quality Index"
+          }
+        },
+        "tooltip": [
+          {"field": "name", "title": "Area"},
+          {"field": "value", "title": "AQI"}
+        ],
+        "stroke": {
+          "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
+          "value": null
+        }
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "center"},
+      "encoding": {
+        "text": {"field": "Date", "timeUnit": "yearmonthdate"},
+        "x": {"value": 178},
+        "y": {"value": 420}
+      }
+    },
+    {
+      "mark": {"type": "text"},
+      "encoding": {
+        "text": {"value": "NA"},
+        "x": {"value": 444},
+        "y": {"value": 217}
       }
     }
-  }
+  ]
 }
-

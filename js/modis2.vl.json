@@ -30,9 +30,10 @@
   "mark": "rect",
   "encoding": {
     "x": {
-      "field": "Week",
+      "field": "DateY",
       "type": "ordinal",
       "sort": {},
+      "title": "Date",
       "axis": {
       }
     },

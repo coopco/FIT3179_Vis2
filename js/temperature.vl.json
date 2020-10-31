@@ -61,6 +61,9 @@
   },
   "layer": [
     {
+      "selection": {
+        "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+      },
       "mark": "bar",
       "encoding": {
         "y": {
@@ -77,7 +80,11 @@
           {"field": "Year", "type": "ordinal"},
           {"field": "Difference", "type": "quantitative"},
           {"field": "Global", "type": "quantitative", "title": "Global difference"}
-        ]
+        ],
+        "stroke": {
+          "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
+          "value": null
+        }
       }
     },
     {

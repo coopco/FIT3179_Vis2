@@ -1,7 +1,6 @@
 {
   "width": 800,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "Google's stock price over time.",
   "data": {"url": "https://raw.githubusercontent.com/coopco/FIT3179_Vis2/master/data/raqi2.csv"},
   "transform": [
     {
@@ -38,9 +37,60 @@
       }
     }
   ],
-  "mark": "line",
-  "encoding": {
-    "x": {"field": "Date", "type": "temporal"},
-    "y": {"field": "Selected", "type": "quantitative", "title": "RAQI"}
-  }
+  "layer": [
+    {
+      "selection": {
+        "index": {
+          "type": "single", "on": "mouseover",
+          "encodings": ["x"], "nearest": true,
+          "init": {"x": {"year": 2007, "month": 7}}
+        }
+      },
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal"},
+        "opacity": {"value": 0}
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "stroke": "#cb4761"
+      },
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal", "title": ""},
+        "y": {"field": "Selected", "type": "quantitative", "title": "RAQI"}
+      }
+    },
+    {
+      "transform": [{"filter": {"selection": "index"}}],
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal"},
+        "color": {"value": "black"}
+      },
+      "layer": [
+        {"mark": {"type": "rule", "strokeWidth": 1}},
+        {
+          "mark": "point",
+          "encoding": {
+            "y": {"field": "Selected", "type": "quantitative"}
+          }  
+        },
+        {
+          "mark": {"type": "text", "align": "center", "fontWeight": 100},
+          "encoding": {
+            "text": {"field": "Date", "timeUnit": "yearmonth"},
+            "y": {"value": 233}
+          }
+        },
+        {
+          "mark": {"type": "text", "align": "center", "fontWeight": 100},
+          "encoding": {
+            "text": {"field": "Selected", "format": ".3"},
+            "y": {"value": -10}
+          }
+        }
+      ]
+    }
+  ]
 }

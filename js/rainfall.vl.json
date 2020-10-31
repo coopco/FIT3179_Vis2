@@ -70,8 +70,19 @@
     ]
   },
   "layer": [
-    {"mark": "bar"},
     {
+      "mark": "bar",
+      "encoding": { 
+        "stroke": {
+          "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
+          "value": null
+        }
+      }
+    },
+    {
+      "selection": {
+        "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+      },
       "mark": {
         "type": "text",
         "align": "left",
