@@ -1,4 +1,5 @@
 {
+  "width": "container",
   "title": "Proportion of forest burned",
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
