@@ -25,8 +25,16 @@ h3{
   font-weight: 200;
   text-align: center;
 }
+.red{
+  color: #cb4761;
+  font-weight: 600;
+}
+.blue {
+  color: #294050;
+  font-weight: 600;
+}
 body{
-   background-color: #294050;
+   background-color: #426680;
  }
 .page{
    width: 80vw;    
@@ -43,4 +51,10 @@ body{
 }
 .top-p{
   padding-top: 3em;
+}
+.vega-bind{
+  color: white;
+}
+.vega-bind-name{
+  color: black;
 }
