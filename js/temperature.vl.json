@@ -1,5 +1,5 @@
 {
-  "height": 350,
+  "height": 250,
   "width": "container",
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
@@ -55,9 +55,15 @@
       }
     },
     "y": {
+      "field": "Difference",
       "type": "quantitative",
       "title": "Difference from mean"
-    }
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal"},
+      {"field": "Difference", "type": "quantitative"},
+      {"field": "Global", "type": "quantitative", "title": "Global difference"}
+    ]
   },
   "layer": [
     {
@@ -66,24 +72,116 @@
       },
       "mark": "bar",
       "encoding": {
-        "y": {
-          "field": "Difference",
-          "type": "quantitative",
-          "title": "Difference from mean"
-        },
         "color": {
           "field": "sign",
           "type": "nominal",
           "scale": {"domain": [-1, 1], "range": ["#426680", "#CB4761"]}
         },
-        "tooltip": [
-          {"field": "Year", "type": "ordinal"},
-          {"field": "Difference", "type": "quantitative"},
-          {"field": "Global", "type": "quantitative", "title": "Global difference"}
-        ],
         "stroke": {
           "condition": {"test": {"and": [{"selection": "highlight"}, "length(data(\"highlight_store\"))"]}, "value": "black"},
           "value": null
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "dy": 8,
+        "dx": -8,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "field": "Annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": "(!isValid(state_selection) || state_selection == 'Australia') && datum.Year == 1925"
+          },
+          "value": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "dy": 10,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "field": "Annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": "(!isValid(state_selection) || state_selection == 'Australia') && datum.Year == 1966"
+          },
+          "value": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "dy": -8,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "field": "Annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": "(!isValid(state_selection) || state_selection == 'Australia') && (datum.Year == 1938)"
+          },
+          "value": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dy": 8,
+        "dx": 4,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "field": "Annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": "(!isValid(state_selection) || state_selection == 'Australia') && (datum.Year == 1974)"
+          },
+          "value": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -6,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "field": "Annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": "(!isValid(state_selection) || state_selection == 'Australia') && (datum.Year == 2019)"
+          },
+          "value": 0
         }
       }
     }

@@ -36,7 +36,7 @@
   "params": [
     {
       "name": "day",
-      "value": 158,
+      "value": 31,
       "bind": {
         "input": "range",
         "min": 0,

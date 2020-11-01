@@ -91,6 +91,22 @@
           }
         }
       ]
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "dy": -8,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal", "title": ""},
+        "y": {"field": "Selected", "type": "quantitative", "title": "RAQI"},
+        "text": {
+          "field": "Annotation"
+        }
+      }
     }
   ]
 }
